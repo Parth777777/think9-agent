@@ -1,0 +1,79 @@
+{
+  "brand_id": "neude",
+  "category": "beauty",
+  "generated_at": "2026-08-10T22:06:48.370300+00:00",
+  "signals": [
+    {
+      "id": "70cc3dbb-ee54-451a-bac6-f321181d872c",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "beauty",
+      "headline": "FMCG majors chase high-margin beauty with Rs 4,000 crore in acquisitions over two years - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxPYUFleElBR0tGdmhoYXpVa3dWQ0NIaHAtQ3BuRGtteFBJT1RDMVYzWUg0Ql9zc0l4NEU3X3VmU3l5WnZmVW5UZkhHSHN1RFVSYUhmYzBMeFNjVWZXUXFBVlZBeVVQcE5lc014Q1RDUW1mQ2ZoeWJpbXdhUHR4dVBFbGtrejRpa0w1b0JMOE43QlpqNUpIbnFCamtxNE9qYTVtOG85YkJyQjM5N1hUVndweUd6MXF6M1ZQZFRxeUstdGRGTE8tdVlUZUt2VFdveWdDdWJOMGQtUHfSAd4BQVVfeXFMUDBfUXRBd09ieXhKNHRWdmJFS2hNZkFBNG5QVVdHRlpRNk5zanRYVTN0TnVZQWZSVEEzbHAtWTlrVENkUjRqbEJ3RktzUlBrM2FrcGhaTkpJejdfUHhCbGVSLVJfQ3FWTUlDbHBFU1pISVloSmMwMmpUaXd0Vk5GRE8yUXBJMlh5V2VpeFNLODlFd09pWFl2c2dOQVBSYmprbU1QTXd4eGpzQ1BTU2l2aUM3YUx2aGJBV2E1cXp6cjF1ZGFuMmNYMFV6d3dpMnFVTDJoUThHMzF0c3JXd3VR?oc=5",
+      "fetched_at": "2026-08-10T22:06:47.917491+00:00"
+    },
+    {
+      "id": "a15e1744-0b98-4123-b8bf-4f01ae88f27e",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "beauty",
+      "headline": "Ancient wisdom, modern glow - The New Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMikgFBVV95cUxQN2lTamNKRVg1UGt4Z2xDNHZrNGg2OThDeDVZVWpaSDkyb2FtWFpjb01kMEtHdzRJQmJBOHZLNnZvN1YzbG9ySzBCV0hReE8zdEdYWExWY1RsVmVMa3ZLR0Jjak4zak5RcFk0LXp3aUM1UFktaVlIaS1qMVZvaUtiQlJtM3ZQYkZNMjZ2dkNUVm5UZ9IBnwFBVV95cUxNNlYzZ2xjdGhQTUJNQ01lbmxHVmp5d0VHa1FNZFZyQ2wyc2lzekxZSHpqVEgyMF8tMFR3Q0RyYm5ZZWIzZU02V3dES084WW5EOUJqV2ZOaUJsQTRyN0hkdW5Kd1BrbHUyNnJVek84NDVCVW5iRTBwckxjQm9SSkFiNkFpVGMxNTdKbXg1M3lFV3lvN2V0Y002bTY1YUl3dmc?oc=5",
+      "fetched_at": "2026-08-10T22:06:47.917523+00:00"
+    },
+    {
+      "id": "da677390-e279-4d40-9431-390fb0b0967d",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "beauty",
+      "headline": "Aayshya Jhunjhunwala On Reimagining Skincare With Molecular Milk - Deccan Chronicle",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxPdzFOM0xxMmJHR05WOGRlZVJkMFA5dHF4M0JZMlcyY3YtZjA4dHVsTGw2RFJIb0E0am1ic3FTM21yb2tfNXlmQ01kd3J5c1dTbVdFakk4dGpKZXdkS3ZWZjhjTW5EUDBrbzRVaUdweVFHcHV2YXhERmRoTzF3VUhLS3h0V0hVdTlKSl9ZMzVGRS1haGVwczB2Y0F2M2RRclRUd1huVmhsdWozRGJObmFzU0JvUThQTlA5UHZMbUlDVUlMaTNFeTZwbtIBzgFBVV95cUxOMy1MZEtVNlVMT0lqTmItWFNjc083VEhqSnc5VWhSWDB2aWZCTW5Pd21yWE9DYkJvQ2pSUmdnaF9JRFJKY2dCUWQ2X0I1U0VOWFR1YjJGUE4tQ2xPVVMybURmOUEyY0JjbVlYM1VRQk5Sb3dDU29tZjFFWGRJU19LTDgxQTdVaThYbTI3TFc2NE1oMmJjeno5RmowTERZcGIwTkRkOEJhN0wtbUtKdXplNzNESS1pbmxBVFVTUFhhQjkzTk8xb2FOQndPY2xsQQ?oc=5",
+      "fetched_at": "2026-08-10T22:06:47.917543+00:00"
+    },
+    {
+      "id": "c8c6cd90-c19d-4e53-aad3-ae70b62be234",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "beauty",
+      "headline": "Flipkart Unveils ‘Beauty Catalyst’: Its First Ever D2C Conclave to Empower Emerging Beauty Brands in India - Passionate In Marketing",
+      "url": "https://news.google.com/rss/articles/CBMi2gFBVV95cUxPV3QwZGh3MXlYQlFZLVA1ZE9aUzFWUGJ1bWt3UVNFRjZNa0hqOGlKVURCZlFqT0kzU0U0U2JyV2VrdlpLa0ZxaUd0bUhpZnBBUjdBSURIMG1PeWl3UnA3bWcxZEJBTHhUYU9OTDYyRHVLdU1tbGNRdnFIcG9pR3RGVUJ5S3F5YW5BZFVUOGVSZ3ZpT1FRSkQzZFY3ZEo3RGsyN1QzZEkzbzYwUEliOElzMnpRMzBjUjdOY2ZkajRscjZuazhSUkNQamx3Mk1iQW8tOE5jNFJobk9yZw?oc=5",
+      "fetched_at": "2026-08-10T22:06:47.917561+00:00"
+    },
+    {
+      "id": "5b107da5-9c4b-4bfd-b3c2-78ef08532999",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "beauty",
+      "headline": "10 newly-launched D2C brands with potential - India Retailing",
+      "url": "https://news.google.com/rss/articles/CBMid0FVX3lxTFBWRzFha29KMGZVTUdVSTJ5azR1eGhYZ3l2dTRWcnJEVjR4TTg0cXNlbWpGRzVoQ3ItZDhYbVp5OGN3azVxNmlMLVZDa0ZxbDRoNzltS2JPSF9DNS1wbzlRQ3VlcHM0N1dFQ2s2cUx6OElfdWM4Rnk4?oc=5",
+      "fetched_at": "2026-08-10T22:06:47.917576+00:00"
+    },
+    {
+      "id": "c25647ed-82ce-4ed3-8943-be1bd40311b8",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "beauty",
+      "headline": "Bio-Fermented Actives Market | Global Market Analysis Report - 2035 - Future Market Insights",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIUkNMSkJLQ2Z0dmd6TjdXbnVzLWdlQ2J2NTBnQ0Z4QVl0aVNMdDM2QUV6dWh1Qy1vM290V01xRHAybmV1NzQ1U0N3Y3ZjTTlXd1B6YmJzMjFramRlQzBPRERjb29oeXRVTzJsOTRkeFBzRGduNDYxM3V0TVJTUQ?oc=5",
+      "fetched_at": "2026-08-10T22:06:48.370199+00:00"
+    },
+    {
+      "id": "97331b69-6897-4fe5-b8b6-21a1205ff04a",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "beauty",
+      "headline": "Lactobacillus Ferment Lysate Market | Global Market Analysis Report - 2035 - Future Market Insights",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbGJKdGhOcEZoOXU4QndNRFM2TjZWaFNuR3JYZDZiVThQT21ZT2VheE1lRUVUR0YxQkk2QlN2NmQxVVh1NjF6d3Q1ZmR6UlR2bVl5SjE2Q1pjMl9yRm9Gd2JpWHBpX3ppamJaWmxmdnFaZDQycmltdS1mWnpLVk5vZlhRT0xnRU0?oc=5",
+      "fetched_at": "2026-08-10T22:06:48.370229+00:00"
+    },
+    {
+      "id": "c2b26bb1-df5f-42ac-9092-51f8784b81c6",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "beauty",
+      "headline": "Slugging is passé, fermented skincare is the next ‘it’ thing in 2023 - Vogue India",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcU55TC01amRUZmpNa3BDcl9GOXZ2Mm8zMV92UlZIZFIxLVZGWHViaVBOWXdSeFBwOTUza0stT1Y5R2VnNEJYaUl6QkNBMWQ1VzdEb1Nvb1NHUk45bGRBSDFoOEdlTy1UUlREaG9pVTJ5TDhYTFhyaXNqdnRaeDM5bVNuUUVsVVBWTjhzUEZVUTZ4SkZmTmFYdQ?oc=5",
+      "fetched_at": "2026-08-10T22:06:48.370247+00:00"
+    }
+  ]
+}

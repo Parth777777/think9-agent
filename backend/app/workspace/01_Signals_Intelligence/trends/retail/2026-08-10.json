@@ -1,0 +1,52 @@
+{
+  "brand_id": "broadway",
+  "category": "retail",
+  "generated_at": "2026-08-10T21:54:48.855641+00:00",
+  "signals": [
+    {
+      "id": "68ee76da-e7f2-4627-8b00-5fce6884d6d7",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "retail",
+      "headline": "Press Release Distribution India - Business Wire India",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxNLVF4NjFSNlRnU3JoNVB0cHdYTUFlNFRnVGhHOWtONHUtOFdRTjlMek1kaTlDTGpCYXFYMF9RMDM2RzNtMlU1TzAtVzVNZzdZWFVTbmhrdWhQZE9fRS1KMWNfejB0Zmdqc1VReG5GMTNyQ3pZZFFyTC1BRDVSRGFMaUVZc1puYjNGN1BjTGpJcE1IMC1NQ1B2R0Y0WVB4S3ZEWGdvUktGWDZ3VXhidi1FMjZYcEl2cExfRGpNdUZhdjdLRjQ?oc=5",
+      "fetched_at": "2026-08-10T21:54:48.855310+00:00"
+    },
+    {
+      "id": "473b2615-bb52-4324-94b7-8ef2463874e6",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "retail",
+      "headline": "Broadway Unveils Its Biggest Experiential Retail Store in Mumbai - Entrepreneur India",
+      "url": "https://news.google.com/rss/articles/CBMiuAFBVV95cUxOUmxlSmxEZ1Jja2JDUHZPa3h3Xy1mZVZEdWJvd0JyLUhIS0FFN0FGOFZwcHVlaWdKTTI0cnBxd0ZaY0hveWpfZWo4TS1QcExEdExrSFlRUjdUUGRaWDVfYlBSdmd2VjU0dGVtb2RCZU9BUTRiVmxoQnlYU2FMNGJYSjhDdXl4WnlpVGc1aWZFb3hVcm5zU1VJQkpzTThZbHd3UzVic0xTRXVpNzdzSmlMUDZhMnotUW1w?oc=5",
+      "fetched_at": "2026-08-10T21:54:48.855355+00:00"
+    },
+    {
+      "id": "b33a3092-fde3-4fd4-96c7-6b05181ba23b",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "retail",
+      "headline": "Broadway Expands to Mumbai with Largest Experiential Retail Store - indianretailer.com",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxPOVNmR3dTRGZuUGE4aEJrYmVydjNic3BodHhyNkdaektJUjdCUk5NQWYyRWNNQW9zNlRNTkd4bGRRQ1hldldOd1N2YWpibEdBeVFjWkdTTFNMRXdvdDNnRTREMVZaVG9PeVBlWm9aaVJCRlZ4T2N0R2wyVTN6UVFqUUNCMFhFTUJrTURwcjRWLURCWWRoRUtsNw?oc=5",
+      "fetched_at": "2026-08-10T21:54:48.855378+00:00"
+    },
+    {
+      "id": "0a3eb845-73fd-4ed6-abe8-0b405d67371a",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "retail",
+      "headline": "Broadway bets big on experiential retail with Mumbai flagship, targets ₹2,000 crore revenue in five years - Fortune India",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxNLURWemNBTmhvVDRQRUJReWlLZXJST3lPcC1lTFd5NDFPb1h1Q0Z0dTZzaktLanc1TkJuYjFwdC1ydlBJQ1haby1lQ3I0RHgzMlZ0Ql9tN0duelRJV3dOUlE0aFVaMHNyNGRaMlozWmhaSWNLQTF4QWpnLWNqc29jQjhfTzhnQzhHYUlPcTVzSFJFcGdSUHNXdF9jRkFfNVRLWnV1SDVGeXhGUHV2d3B1TDYwSGdONkZDcVo1N1RSWjgyelhTMjdGZmItSDFUaDlhaEw5SngtTmVHX2Z3SnVpVzdndG1oRknSAfQBQVVfeXFMTUFnVFpqNzF4OFpmT0FVakZlSnlzSmlORlFVLWZScjVBLXR1YWNjUzhWSHAtTExUS1Z2Nmd3V1Q5R1A3eHdlV3c4ZHhsZVNfbWpqbUtCRzNrU0lDcTlYVm9tVXhBRGRHTW9TWU4wMlR0Wm51d1dIdThrSmkyV2lSMXNSNHY5anlZeDhvSUpnQi1LdXcwcUVpV1BTdk1pU1VNS1B0REotNFpxeU91dWFpTEhkTkdlUGducDZ5akhxWHlleHdteXMwNVVUb3Y1b3NveU9rbGU3N1ZnQVJUYndOOERLRlNuenN5aWlwbzFwUmd3TnJqWA?oc=5",
+      "fetched_at": "2026-08-10T21:54:48.855404+00:00"
+    },
+    {
+      "id": "47714339-cc67-47e4-8bca-a44dec16e9c3",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "retail",
+      "headline": "Broadway expands to Mumbai with its largest experiential retail destination yet - India Retailing",
+      "url": "https://news.google.com/rss/articles/CBMirwFBVV95cUxNTFlrWUdRZng2WDBaSmpEOUZfT3dydzNNSWdWWGFmcFBsTGEzREh0d1U2N2VTeTBsTzJpTWFzOTd5eGdkYkhyaFFoa0JzaVNSVWlrZ3ROc284WHpaMkZjWFBKckNXZS12ekp2TktvaEM5YnF6OU1HbkhOWGZXekVxTHlIREtPZzNqOWt5Y1RxRlRZN0dOQm13OXd4NjVnYjNrWVU1ZE44a1daWnQ2WVRr?oc=5",
+      "fetched_at": "2026-08-10T21:54:48.855425+00:00"
+    }
+  ]
+}

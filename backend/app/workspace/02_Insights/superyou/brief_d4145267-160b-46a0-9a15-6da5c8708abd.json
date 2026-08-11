@@ -1,0 +1,17 @@
+{
+  "brand_id": "superyou",
+  "tension": "Unable to synthesize a specific tension for SuperYou from current signals.",
+  "why_now": "Fallback brief — LLM synthesis failed or returned unparsable output.",
+  "confidence": 0.2,
+  "reactive": false,
+  "source_signal_ids": [
+    "f2e18788-2444-4e3e-9908-ee40c8d1fe81",
+    "15f0d954-8b6d-4d44-acd9-5940c8e119fd",
+    "99a46371-8037-4986-a00a-b5a6b44db01a",
+    "25d20bd2-aedd-4795-8e91-49bc09b48412",
+    "4ce7486d-e42c-42c8-8ae9-929c99d309db",
+    "5117a34c-8c5e-46fc-986b-ad9311120118",
+    "14fce4ff-965d-4189-9dfc-272c74a191d8",
+    "84a612c8-6e2d-49c0-8ab9-2b249e749424"
+  ]
+}

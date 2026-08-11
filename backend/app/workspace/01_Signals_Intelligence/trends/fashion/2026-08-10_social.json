@@ -1,0 +1,35 @@
+{
+  "brand_id": "kingdom_of_white",
+  "category": "fashion",
+  "generated_at": "2026-08-10T21:53:15.954962+00:00",
+  "signals": [
+    {
+      "id": "8d7993ed-6fa1-4573-bb3d-66246a4360a1",
+      "source": "reddit",
+      "mode": "fallback_seeded",
+      "brand_category": "fashion",
+      "headline": "[seeded] r/india+r/malefashionadvice fetch blocked (consent-wall/bot-check response, not a network outage) in this environment",
+      "url": "",
+      "fetched_at": "2026-08-10T21:53:10.887513+00:00"
+    },
+    {
+      "id": "2b597f57-7108-4974-bf70-256298077710",
+      "source": "youtube",
+      "mode": "fallback_seeded",
+      "brand_category": "fashion",
+      "headline": "[seeded] YouTube search-RSS unavailable (search_query is not a supported public feed param) for 'Kingdom of White fashion India'",
+      "url": "",
+      "fetched_at": "2026-08-10T21:53:11.035094+00:00"
+    },
+    {
+      "id": "4272e794-0119-4a4a-9519-28128a23e1ec",
+      "source": "instagram",
+      "mode": "fallback_seeded",
+      "brand_category": "fashion",
+      "headline": "[seeded] #fashion best-effort Instagram fetch unavailable in this environment",
+      "url": "",
+      "fetched_at": "2026-08-10T21:53:15.954897+00:00"
+    }
+  ],
+  "instagram_mode": "fallback_seeded"
+}

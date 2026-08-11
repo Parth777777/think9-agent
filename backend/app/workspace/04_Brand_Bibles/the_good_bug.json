@@ -1,0 +1,35 @@
+{
+  "id": "the_good_bug",
+  "name": "The Good Bug",
+  "category": "wellness",
+  "positioning": "Science-led synbiotic supplements built around India's cultural association between digestion and overall health.",
+  "tone": [
+    "credible",
+    "warm",
+    "non-clinical"
+  ],
+  "banned_claims": [
+    "cures",
+    "guaranteed results",
+    "FDA approved",
+    "treats disease"
+  ],
+  "consumer_segments": [
+    "gut_health",
+    "premium",
+    "science_backed_wellness"
+  ],
+  "known_pitfalls": [
+    "Guardian review failed to parse — treated as a fail, needs manual review.",
+    "The tone, while warm, borders on generic marketing-speak and lacks a distinct, credible voice unique to The Good Bug",
+    "The phrase 'unlock a deeper sense of well-being' could be seen as implying a guaranteed result, which is not explicitly banned but walks a fine line",
+    "The tone, while warm, lacks a distinct, credible voice unique to The Good Bug, bordering on generic marketing-speak",
+    "The phrase 'lead to a more resilient and vibrant you' could be seen as implying a guaranteed result, which walks a fine line with banned claims",
+    "The ad variants use phrases like 'achieve a stronger digestive system' and 'experienced the benefits', which may imply guaranteed results or outcomes",
+    "The phrase 'vibrant, healthy life' could be seen as implying a guaranteed result, which walks a fine line with banned claims",
+    "The phrase 'cure digestive disease' is a banned claim",
+    "The phrase 'guarantee results' is a banned claim",
+    "The phrase 'clinically proven' is a banned claim",
+    "The phrase 'FDA approved' is a banned claim"
+  ]
+}

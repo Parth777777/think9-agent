@@ -1,0 +1,16 @@
+{
+  "brand_id": "anaar",
+  "category": "luxury_fashion",
+  "generated_at": "2026-08-10T21:53:56.059833+00:00",
+  "creator_candidates": [
+    {
+      "id": "e63a6c64-4507-4731-9d96-b1d9c364c8b3",
+      "handle": "seed_luxury_fashion_creator",
+      "platform": "youtube",
+      "category": "luxury_fashion",
+      "fit_score": 0.6,
+      "source_url": "",
+      "seed": true
+    }
+  ]
+}

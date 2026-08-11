@@ -1,0 +1,15 @@
+# secrets
+.env
+backend/.env
+
+# python
+__pycache__/
+*.pyc
+backend/venv/
+
+# node
+node_modules/
+frontend/dist/
+
+# logs
+*.log

@@ -1,0 +1,16 @@
+{
+  "brand_id": "broadway",
+  "category": "retail",
+  "mode": "fallback_seeded",
+  "generated_at": "2026-08-10T21:54:48.009219+00:00",
+  "competitor_flags": [
+    {
+      "id": "comp_retail_1",
+      "name": "Nykaa Luxe Stores",
+      "brand_category": "retail",
+      "price_range": "n/a",
+      "positioning": "multi-brand experiential beauty retail, strong metro footprint",
+      "seed": true
+    }
+  ]
+}

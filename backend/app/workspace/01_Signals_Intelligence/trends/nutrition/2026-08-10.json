@@ -1,0 +1,79 @@
+{
+  "brand_id": "superyou",
+  "category": "nutrition",
+  "generated_at": "2026-08-10T22:02:23.605918+00:00",
+  "signals": [
+    {
+      "id": "6b76b0ca-762d-43ab-97f7-3e2dc595c703",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "nutrition",
+      "headline": "SuperYou Launches Protein-Packed Power Puffs Snack Range - Passionate In Marketing",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRkhxU1RnaHo0N1JIem1ma1N3VkdUY0JTZ1lRclRtWndpYVNhTDdiUlN0Y3RubUlzY01xZXRlRmhzUWxoRTdoaHhNemt1R3NjVVY1YTEyQWhWY0lURmZ5ODlfWVd1Zktjc0pSMVlncHY0cXBHY0VEbjc5WVV1RVZ2NUdZemxUSXp2bVd0U0F3TUFRRllVVmY2a1EyV0Eta3Q2X1VrcUFYaXJtSFQxT1hvYklfejNIcUl6MXFZZ1ItTmhybzNobm5mTE9yNjNIUE81SzA5bGpfall2aTVmYmIzV3RZR3BhRDQ?oc=5",
+      "fetched_at": "2026-08-10T22:02:22.645251+00:00"
+    },
+    {
+      "id": "71d4e504-05ce-41ca-b602-7d7298dec8ab",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "nutrition",
+      "headline": "Protein in your coffee? Starbucks-SuperYou partnership taps India’s ‘permissible indulgence’ trend - ET Retail",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZGw3RXIydE1tN1FaRWUtN01PbGdCdk1pSllQMHl5TkQ0NzdEQlg5T3pVV1Q5dk40TzJ1aDk2WGF1OGZkY3J3TXZUWF9SM3VQbndEdUJOZEhrUkN0Y2Q5LWMwTEk3S2psSFhGMnIxZUJLamtxckdZWGdxWXZGdHJiTm9iZV9vNzNmQlktdjN2V2lSSkFibHVHWEYwSlVocmFZS0RBTjVJTFNnR0pyMW5GQW1OUFFuTV94R1JidlpsRUI0TFBsUkZIYjFWZlcwS0g2Q1c2dzdiR1ZTQ05GWjBnbnU5dGdsUmktMk5NVHZ0VjhuSnBicmoxZS1DaE85NjUyRzQwTzkxM0ZlSlRSSWRRemhBZEQ?oc=5",
+      "fetched_at": "2026-08-10T22:02:22.645276+00:00"
+    },
+    {
+      "id": "900e8e0c-6ab7-4991-b0ae-deae595a03ee",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "nutrition",
+      "headline": "Starbucks, SuperYou expand partnership with protein cold foam beverages - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNWRMaHZsZEt1WVEwZncyQzJnZHFqYUtfTkpaVnphUUVmdVVfTGxyYjRTMGFjRmZ2ajJDUzJaTGtKaWUtZ2k4UlNwQ3NIeVh5MVFuUnBSX3J2UTM0M0FkbVZ0NXB6US0zVHZBM0VlM1JUdks0RGhrcG9QRS05cnRHUzVXTWlaYkgzTFU1dExYWjNlNF9WUzJHMmhGSlhhQTJOaGJmM19NdDRPTlhTUTB4d2htSHd4QXBJM2RQNjhTVU54QXNL0gHKAUFVX3lxTE4xbjFNR0thYy1wNHAyd0JwYXVPQzEzWmxnS1ZBX044VTZxeHNVMlV5SUdKV1psQmMzZ1RwZE9mZlRCcEVQRXJ3YmVuNnJ4Zzd6ZFRnY09NZ2JmV19vTXR0QUNZd3VtY0hmMDFWLTZEdDFVNF9IYTJOeDZBdEpHVEx3X3c5LVU1aXR3S1RWSU0wbUVHdWJVMFB1dTBGVzYwdXlOVURWblUxOVJ6NVFFZHh0blgzbTE2OHYwX0dtcUtDMm5WQjVkVU93R0E?oc=5",
+      "fetched_at": "2026-08-10T22:02:22.645289+00:00"
+    },
+    {
+      "id": "2bb8293d-d09b-4550-a61e-7d7ac04bb680",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "nutrition",
+      "headline": "Ranveer Singh-backed SuperYou raises Rs 63 Crore in Series B, eyes aggressive expansion in India’s functional nutrition market - MediaNews4U",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWDRFbHNpRDdfUURVZnJqdUJ5c3oyUkZtVV9pNGdpRUREbWZ5N1VlNTJLbTJ2b1pCWHF6TXg0Rm5ia0pFRFZBNGREQUoyUG9zekdCVW9GZzdocnl1c24yaHlQZ1lNNUF2Q2pFTGYtU00waHNIZ0ZIX0pQMXJTaVJFYVBTdlA2VjZBUnNLX2Q0T0xkV05hZTNmaGVaZUtEV0REeVlrc2hENGdTWkJmUlNOckphQ2JwaE1YUS1sOEZaTXVjSmQ5Z1BXakNNYkdJWm1aeVYxcWhxMlBCeFpMZ21ER1BJTlJQdlR2?oc=5",
+      "fetched_at": "2026-08-10T22:02:22.645302+00:00"
+    },
+    {
+      "id": "ef15c6fe-d7d8-43da-9a85-86ea0d6b12be",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "nutrition",
+      "headline": "Ranveer Singh Co-Founded SuperYou Raises USD 7 Mn Funding Led by V3 Ventures - Entrepreneur India",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSDNGY25ZczNkSGtPWTh1cmZYcEtabXpFZ1lnWFdTLWpKRTJjOVhma2lyNFE3QmxhREMtYmQ3T01EcEdZcjktaER6SzVaeTRlN3M4M25hem41d216Z01KWWRRVnJJUEFaaE84aVpIY3V2MjZGQWFUN3Y3a3g1TkgyWkdtS1lENlFMRHdaYVM4MDdDVTZ2MDFHZGtja3lXdXlIU1B6YUZ6bm9SRnNmRGROeFJSRG90eGlna1pMWUlwTVpZTVlvLTR0UQ?oc=5",
+      "fetched_at": "2026-08-10T22:02:22.645313+00:00"
+    },
+    {
+      "id": "cdf40874-a4d3-4978-a995-307c55f90f8a",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "nutrition",
+      "headline": "Protein Crisps Market Size, Trends & Forecast 2025-2035 - Future Market Insights",
+      "url": "https://news.google.com/rss/articles/CBMidEFVX3lxTE5mT2dRdzViMVhZb0ROaUw0WkxPb29FQXpOTVdVVi1OQkFSc19PdnAwNnQ0OEt3dzhvdEZlcGNWd09jY05XenA1a0dwbGtVbTdZeVhOWFhtelJiVFY1MEpRUWFLRlo1Zk1LdUhvUjNIbWI1ZkJ0?oc=5",
+      "fetched_at": "2026-08-10T22:02:23.605671+00:00"
+    },
+    {
+      "id": "9237205f-bcff-4871-ae41-4b45459f0fde",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "nutrition",
+      "headline": "India’s protein boom accelerates as demand surges 150% across quick commerce - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMihAJBVV95cUxPNUI3UzVCXzZYUW5wUEFYZ280VHRONmhxa3ltSFByMTEtaVdKLU5vLS1lYzFHeDBFaU5MdXFUWGd3OUJuNHBwTlhxb1JRQU9uMERRNU1hbmxrcGVzU1NMSGNxdTB2ejZsV0s2MThodTBvVFREUWNGY1VsWGg4SGtXTUc3UDBUUWpSRDk0ZTg0MmxPRmZUVGtjcUtVcVAyQTVTSG94ODVpaGJDc3ZjakxXMWV5d1paVzNYNTNkMTdySm9KT25qc3EtZTZvNnQ1TDk5dkxMaUVLQ0hmbDRhRURoWFVuQThNa25TM2VrclNqeXNhT0xrckt1MFJieEZEVzBpN1RScdIBigJBVV95cUxOTVlCMzQ1cU5nd01GdVZxNDh6VXhHWmh3YkpZYjNQc2ZBeHZTY0ltMmgzUWJfV2dlSENuYlVjREVuUjAxN3YzTWpsSmRvZlBVdnFodEJJdXlEMHotNWs1TFZlLTVhN0hPSFdNNWZfT1hqcjNzYzgyTHo4bmZkbXRHeTFvY0ltZUdLUXlIRjFSZFFycU13Mm5yNmVuWDZ2dDBiekNUaTNfZDU5X292ZEx6VGtabEJYdFl4XzJVcTdwSGViOVU5bVdfNFc3NGtHRDI4MDZVdmJtQXFJM0k2WnZsUmFoMnhDZGR2UkNXTExRREZXLThEa0lwdEJuV1hPZjhtUVFxU1BsX0w0dw?oc=5",
+      "fetched_at": "2026-08-10T22:02:23.605698+00:00"
+    },
+    {
+      "id": "e9695ea3-0c40-41d5-97b9-5743a724e7b2",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "nutrition",
+      "headline": "Indians want quick bites that are clean-label and protein-rich - India Today",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUzFKMThUdFBiS1FXUmpMME40XzVtWUpMUUFMYVVKREVkaVRYMkN1UWpOX01WTHhNdTFyTEY4MTkwTndaVWR6UXhVQllOS01hTW82ZFRqZHlLMFZ3QkwzZTY0bTNsR19sRkdjZ1UyclhnZ1h5WHdESm40N2Q4NHZuRUVXN19pbHRnU0UtQURLanFjVDR3MHp0T1Z1VllZN19TMDliSmxhWVdTZ1dCVVBZR25ldmdhZGvSAbwBQVVfeXFMTkJ6N2lJOHJXVzdxX3lJRFdHbTRvZ09UcUgyRmdvejM2ZzRJQ3NfaDZsM0N3ME9zM3lrOUdtbFMzU1RqZ0pGYi13RVlzR2tKUjgyQmxmcHNmaVUzN2dNWWdDSXFyVXk4VE9MR0owZDdnQU1iQ3JmVWhOVVI3YTkwT3VvRy1udXVycmVXYWtEeExGYmt0eGRaWEVIMmFRN21SNlNFbUJnT004RkdsS0h2bldkRS15UXJmNGlFaFk?oc=5",
+      "fetched_at": "2026-08-10T22:02:23.605713+00:00"
+    }
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "brand_id": "anaar",
+  "category": "luxury_fashion",
+  "generated_at": "2026-08-10T21:53:56.058142+00:00",
+  "signals": [
+    {
+      "id": "83bcaa49-7238-496d-9b1c-335877527472",
+      "source": "reddit",
+      "mode": "fallback_seeded",
+      "brand_category": "luxury_fashion",
+      "headline": "[seeded] r/india+r/femalefashionadvice fetch blocked (consent-wall/bot-check response, not a network outage) in this environment",
+      "url": "",
+      "fetched_at": "2026-08-10T21:53:44.339065+00:00"
+    },
+    {
+      "id": "c8264b22-7193-4a7c-9950-e0a168c2f45a",
+      "source": "youtube",
+      "mode": "fallback_seeded",
+      "brand_category": "luxury_fashion",
+      "headline": "[seeded] YouTube search-RSS unavailable (search_query is not a supported public feed param) for 'Anaar luxury_fashion India'",
+      "url": "",
+      "fetched_at": "2026-08-10T21:53:44.493138+00:00"
+    },
+    {
+      "id": "741fa4f0-3fa9-48cd-9e31-0062ab7a7d35",
+      "source": "instagram",
+      "mode": "fallback_seeded",
+      "brand_category": "luxury_fashion",
+      "headline": "[seeded] #luxury_fashion best-effort Instagram fetch unavailable in this environment",
+      "url": "",
+      "fetched_at": "2026-08-10T21:53:56.058081+00:00"
+    }
+  ],
+  "instagram_mode": "fallback_seeded"
+}

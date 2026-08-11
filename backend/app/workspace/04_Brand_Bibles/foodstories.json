@@ -1,0 +1,21 @@
+{
+  "id": "foodstories",
+  "name": "FoodStories",
+  "category": "food",
+  "positioning": "Curated organic produce, global ingredients, and artisanal products for affluent, discovery-driven consumers.",
+  "tone": [
+    "curated",
+    "premium",
+    "discovery-led"
+  ],
+  "banned_claims": [
+    "100% organic",
+    "farm guaranteed",
+    "chemical free"
+  ],
+  "consumer_segments": [
+    "affluent_food",
+    "gourmet_curation"
+  ],
+  "known_pitfalls": []
+}

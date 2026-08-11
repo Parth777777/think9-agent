@@ -1,0 +1,38 @@
+{
+  "id": "panchamrit",
+  "name": "Panchamrit",
+  "category": "wellness",
+  "positioning": "Ayurvedic wisdom translated into modern, everyday products for gut health, sleep, and immunity.",
+  "tone": [
+    "rooted",
+    "trustworthy",
+    "warm"
+  ],
+  "banned_claims": [
+    "cures",
+    "guaranteed results",
+    "treats disease",
+    "FDA approved"
+  ],
+  "consumer_segments": [
+    "gut_health",
+    "ayurveda_wellness",
+    "sleep_immunity"
+  ],
+  "known_pitfalls": [
+    "The tone, while warm, borders on generic marketing-speak and doesn't fully embody the unique warmth and trustworthiness of the Panchamrit brand",
+    "The phrase 'effective, everyday products' could be seen as implying a level of guaranteed results, which is not explicitly banned but walks a fine line",
+    "The draft could be more specific about what makes Panchamrit unique beyond 'traditional knowledge' and 'carefully selected ingredients', which could apply to any brand",
+    "The tone, while warm, leans towards generic marketing-speak and doesn't fully embody the unique warmth and trustworthiness of the Panchamrit brand",
+    "The phrase 'support your gut health, sleep, and immunity' could be seen as implying a level of effectiveness that walks a fine line with banned claims",
+    "The draft lacks specific details about what makes Panchamrit unique beyond 'traditional knowledge' and 'carefully selected ingredients'",
+    "The tone, while warm, still leans towards generic marketing-speak and doesn't fully embody the unique warmth and trustworthiness of the Panchamrit brand",
+    "The phrase 'create products that can be a part of your daily routine' could imply a level of effectiveness or guaranteed results, walking a fine line with banned claims",
+    "The draft lacks specific details about what makes Panchamrit unique beyond 'traditional knowledge' and 'carefully selected ingredients', making it interchangeable with other brands",
+    "The phrase 'nurture your gut health, sleep, and immunity' could be seen as implying a level of effectiveness that walks a fine line with banned claims",
+    "The phrase 'create offerings that can complement your daily routine' could imply a level of effectiveness or guaranteed results, walking a fine line with banned claims",
+    "The phrase 'provide a foundation for holistic well-being' could be seen as implying a level of effectiveness that walks a fine line with banned claims",
+    "'support your journey towards holistic well-being' could be seen as implying a level of effectiveness that walks a fine line with banned claims",
+    "'nurture your well-being' could imply a level of effectiveness or guaranteed results"
+  ]
+}

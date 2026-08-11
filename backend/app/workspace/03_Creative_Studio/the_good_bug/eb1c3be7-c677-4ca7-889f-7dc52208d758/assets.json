@@ -1,0 +1,71 @@
+{
+  "iteration": 1,
+  "assets": [
+    {
+      "format": "product",
+      "size": "feed",
+      "width": 1024,
+      "height": 1024,
+      "url": "https://image.pollinations.ai/prompt/clean%20studio%20product%20photograph%20of%20The%20Good%20Bug%20wellness%2C%20plain%20seamless%20background%2C%20soft%20diffused%20studio%20lighting%2C%20centered%2C%20commercial%20catalog%20photography%2C%20no%20text%2C%20no%20people?width=1024&height=1024&nologo=true",
+      "provider": "pollinations",
+      "headline": "Nourish your gut with our expertly crafted synbiotic supplements, backed by science and inspired by tradition",
+      "cta": "Join the growing community of individuals who prioritize gut health and wellness with The Good Bug",
+      "status": "ok"
+    },
+    {
+      "format": "product",
+      "size": "story",
+      "width": 768,
+      "height": 1344,
+      "url": "https://image.pollinations.ai/prompt/clean%20studio%20product%20photograph%20of%20The%20Good%20Bug%20wellness%2C%20plain%20seamless%20background%2C%20soft%20diffused%20studio%20lighting%2C%20centered%2C%20commercial%20catalog%20photography%2C%20no%20text%2C%20no%20people?width=768&height=1344&nologo=true",
+      "provider": "pollinations",
+      "headline": "Nourish your gut with our expertly crafted synbiotic supplements, backed by science and inspired by tradition",
+      "cta": "Join the growing community of individuals who prioritize gut health and wellness with The Good Bug",
+      "status": "unverified"
+    },
+    {
+      "format": "product",
+      "size": "banner",
+      "width": 1344,
+      "height": 768,
+      "url": "https://image.pollinations.ai/prompt/clean%20studio%20product%20photograph%20of%20The%20Good%20Bug%20wellness%2C%20plain%20seamless%20background%2C%20soft%20diffused%20studio%20lighting%2C%20centered%2C%20commercial%20catalog%20photography%2C%20no%20text%2C%20no%20people?width=1344&height=768&nologo=true",
+      "provider": "pollinations",
+      "headline": "Nourish your gut with our expertly crafted synbiotic supplements, backed by science and inspired by tradition",
+      "cta": "Join the growing community of individuals who prioritize gut health and wellness with The Good Bug",
+      "status": "unverified"
+    },
+    {
+      "format": "faceless_ugc",
+      "size": "feed",
+      "width": 1024,
+      "height": 1024,
+      "url": "https://image.pollinations.ai/prompt/authentic%20user-generated%20lifestyle%20photo%20of%20The%20Good%20Bug%20wellness%2C%20hands%20only%20holding%20the%20product%2C%20over-the-shoulder%20point-of-view%2C%20natural%20window%20light%2C%20casual%20home%20setting%2C%20candid%20smartphone%20photo%20aesthetic%2C%20no%20face%20visible%2C%20no%20text?width=1024&height=1024&nologo=true",
+      "provider": "pollinations",
+      "headline": "Nourish your gut with our expertly crafted synbiotic supplements, backed by science and inspired by tradition",
+      "cta": "Join the growing community of individuals who prioritize gut health and wellness with The Good Bug",
+      "status": "unverified"
+    },
+    {
+      "format": "faceless_ugc",
+      "size": "story",
+      "width": 768,
+      "height": 1344,
+      "url": "https://image.pollinations.ai/prompt/authentic%20user-generated%20lifestyle%20photo%20of%20The%20Good%20Bug%20wellness%2C%20hands%20only%20holding%20the%20product%2C%20over-the-shoulder%20point-of-view%2C%20natural%20window%20light%2C%20casual%20home%20setting%2C%20candid%20smartphone%20photo%20aesthetic%2C%20no%20face%20visible%2C%20no%20text?width=768&height=1344&nologo=true",
+      "provider": "pollinations",
+      "headline": "Nourish your gut with our expertly crafted synbiotic supplements, backed by science and inspired by tradition",
+      "cta": "Join the growing community of individuals who prioritize gut health and wellness with The Good Bug",
+      "status": "unverified"
+    },
+    {
+      "format": "faceless_ugc",
+      "size": "banner",
+      "width": 1344,
+      "height": 768,
+      "url": "https://image.pollinations.ai/prompt/authentic%20user-generated%20lifestyle%20photo%20of%20The%20Good%20Bug%20wellness%2C%20hands%20only%20holding%20the%20product%2C%20over-the-shoulder%20point-of-view%2C%20natural%20window%20light%2C%20casual%20home%20setting%2C%20candid%20smartphone%20photo%20aesthetic%2C%20no%20face%20visible%2C%20no%20text?width=1344&height=768&nologo=true",
+      "provider": "pollinations",
+      "headline": "Nourish your gut with our expertly crafted synbiotic supplements, backed by science and inspired by tradition",
+      "cta": "Join the growing community of individuals who prioritize gut health and wellness with The Good Bug",
+      "status": "unverified"
+    }
+  ]
+}

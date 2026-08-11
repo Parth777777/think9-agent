@@ -1,0 +1,35 @@
+{
+  "brand_id": "tinkle",
+  "category": "childrens_media",
+  "generated_at": "2026-08-10T22:06:03.648966+00:00",
+  "signals": [
+    {
+      "id": "91347024-4a53-402a-857f-a86ab81bfb84",
+      "source": "reddit",
+      "mode": "fallback_seeded",
+      "brand_category": "childrens_media",
+      "headline": "[seeded] r/india+r/bollywood fetch blocked (consent-wall/bot-check response, not a network outage) in this environment",
+      "url": "",
+      "fetched_at": "2026-08-10T22:06:01.883405+00:00"
+    },
+    {
+      "id": "006c2fca-470d-4e8b-a4b9-dafbbc55d7c2",
+      "source": "youtube",
+      "mode": "fallback_seeded",
+      "brand_category": "childrens_media",
+      "headline": "[seeded] YouTube search-RSS unavailable (search_query is not a supported public feed param) for 'Tinkle childrens_media India'",
+      "url": "",
+      "fetched_at": "2026-08-10T22:06:02.516685+00:00"
+    },
+    {
+      "id": "a555a774-f880-4d1b-97dd-0b49998969e0",
+      "source": "instagram",
+      "mode": "fallback_seeded",
+      "brand_category": "childrens_media",
+      "headline": "[seeded] #childrens_media best-effort Instagram fetch unavailable in this environment",
+      "url": "",
+      "fetched_at": "2026-08-10T22:06:03.648880+00:00"
+    }
+  ],
+  "instagram_mode": "fallback_seeded"
+}

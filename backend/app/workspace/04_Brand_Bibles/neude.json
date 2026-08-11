@@ -1,0 +1,25 @@
+{
+  "id": "neude",
+  "name": "Neude",
+  "category": "beauty",
+  "positioning": "Modern skincare inspired by Indian milk-based beauty rituals, combining heritage ingredients with contemporary formulation science.",
+  "tone": [
+    "modern",
+    "sensorial",
+    "heritage-rooted"
+  ],
+  "banned_claims": [
+    "dermatologically proven",
+    "skin whitening",
+    "instant fairness",
+    "permanent results"
+  ],
+  "consumer_segments": [
+    "clean_beauty",
+    "heritage_beauty",
+    "premium"
+  ],
+  "known_pitfalls": [
+    "Guardian review failed to parse — treated as a fail, needs manual review."
+  ]
+}

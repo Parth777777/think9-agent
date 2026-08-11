@@ -1,0 +1,17 @@
+{
+  "brand_id": "superyou",
+  "category": "nutrition",
+  "generated_at": "2026-08-11T18:44:56.404154+00:00",
+  "creator_candidates": [
+    {
+      "id": "54f47db4-b3c1-450e-9e62-736f1d23f264",
+      "handle": "seed_nutrition_creator",
+      "context": "",
+      "platform": "youtube",
+      "category": "nutrition",
+      "fit_score": 0.6,
+      "source_url": "",
+      "seed": true
+    }
+  ]
+}

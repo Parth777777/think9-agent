@@ -1,0 +1,79 @@
+{
+  "brand_id": "the_good_bug",
+  "category": "wellness",
+  "generated_at": "2026-08-11T11:31:32.550959+00:00",
+  "signals": [
+    {
+      "id": "46502093-7026-45d4-ac1c-78b36168000c",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "wellness",
+      "headline": "Tradition vs Supplements: Who Owns Gut Health in India? - FFOODS Spectrum",
+      "url": "https://news.google.com/rss/articles/CBMinwFBVV95cUxPem9Qd1VkOG1UQ0V4U3Q0V2NuVGRHUW9TZ1JxNXdmSk1OUm5ZQXNsRElwdmlQUDMySllOSGdJckpaUGV5aERtUE8wX0Q0SUJ1SWY5Um1lUGFCZjZKUW1hQUZNT1VQN1lNdzJYOFFLWjdjZ1FQbzhsbWZoUzlTNDVOTndNaTl2cG9Ca1lpUk1YeW5UUGJBYnZfeXl0bFBVVlE?oc=5",
+      "fetched_at": "2026-08-11T11:31:31.199217+00:00"
+    },
+    {
+      "id": "fb1b4ddb-f91f-4d5d-8b2d-9c2c12a02460",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "wellness",
+      "headline": "Gourmet retail startup Foodstories secures Rs 50 Cr led by Nikhil Kamath - Entrackr",
+      "url": "https://news.google.com/rss/articles/CBMisAFBVV95cUxOSFVaWlNZLU1oSzFwaW53dHc1bG9RUDlUbnlDanFzSzJhVkpURm5XTGE0NmRxMlVORjY2UnZHQnQwYkVOWlNxWE1Dc2g4WlZzYXVrSkZyN1p6OEFSUUIwajZib19iQjVxNHlkaTBydmxIcFdBa3dsM0NDSDZoTlFVR09saE9TR2xqal8yNXNGS3puVWpPMnVRMHl4cm9MREtyWnpxb1pJU2lKQTNpeFc0bdIBsAFBVV95cUxOSFVaWlNZLU1oSzFwaW53dHc1bG9RUDlUbnlDanFzSzJhVkpURm5XTGE0NmRxMlVORjY2UnZHQnQwYkVOWlNxWE1Dc2g4WlZzYXVrSkZyN1p6OEFSUUIwajZib19iQjVxNHlkaTBydmxIcFdBa3dsM0NDSDZoTlFVR09saE9TR2xqal8yNXNGS3puVWpPMnVRMHl4cm9MREtyWnpxb1pJU2lKQTNpeFc0bQ?oc=5",
+      "fetched_at": "2026-08-11T11:31:31.199243+00:00"
+    },
+    {
+      "id": "c92f82c7-756d-406e-a11a-5bc3ee9043f1",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "wellness",
+      "headline": "Ultrahuman says hackers accessed customers’ wellness data via internal tool - TechCrunch",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxQX0IzZ3NqQmE3NHcyWXZ4eExwOXgzTndpTDloZ1FnWHZWeW40S3NLUzJRdm5CN01JX3JFYzhrTDRfM1kxYkRpVE9kV1JsblZBRTFMWkNsOVpVdDVBbWFFYXhWUGtyZlRVeV9KTWY2V0xnN19nazFIU1hwanNCTi1SaEpPcEYwUlJlTnR6Z29RZlRrVEtFQ0dxSkV1S2RBUjl4Zk1INTdqdzZVQnhEQ3c?oc=5",
+      "fetched_at": "2026-08-11T11:31:31.199258+00:00"
+    },
+    {
+      "id": "c94acf20-e42d-429c-86f2-dc9c7c4ca36f",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "wellness",
+      "headline": "Foodstories Raises ₹50 Crore Led by Nikhil Kamath to Accelerate Omnichannel Retail Expansion - D2c Insider Pulse",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNTWFsRkMweEdqaEZaLUxvT3QzTWE4VEptdGlSWG1RQTJzVGdSNUswck9HZjVYODZQbXlqRlZIR2ZvN1AxcTFHRXlKaUlJRlJua1ZVRVBMa1pTblYwcEZFZlp1T1RNVmdTdF9wOE1jTjdGclJRY0VXQXVuX3RCZ2sxTFNUbTlpTXMyUC1saEExNnE4T0JIZjJnMkdUblBWY05qODFKeDJrN2pKaUlNc2ZtTGhYUU5SOFJ2MVlMMzU0Mlg1WXpRWmI1Mg?oc=5",
+      "fetched_at": "2026-08-11T11:31:31.199271+00:00"
+    },
+    {
+      "id": "a8be17ea-03e2-4838-8b18-f4f1e512ceec",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "wellness",
+      "headline": "Gut health-focused consumer nutraceutical brand The Good Bug raises Rs 100 crore - Indian Startup News",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxQclRadmtfZlIwa19VNU1za212c1Z4YXUzRzY2cnFYbXgtMlJNM2FEeGxmLTB4UHkwMXd2NmdJSTlVc1JSRW5jQnJhRG9HNFpKazFxYS1FaFZXalVNZW5kbW5tS0o2T3hhTmwtaHVZSGdQSzF5dGtKOHVzeXpaZGFDTlBXVG9scmVxWGtXUW4tYjJWNEFlVmNkWEoydUV6ejM2Q1pDT1F5dDNuXzl3VzdBQ3RXNFEydDhXSFRPbTA3aTNIVnFk0gHEAUFVX3lxTFByVFp2a19mUjBrX1U1TXNrbXZzVnhhdTNHNjZycVhteC0yUk0zYUR4bGYtMHhQeTAxd3Y2Z0lJOVVzUlJFbmNCcmFEb0c0WkprMXFhLUVoVldqVU1lbmRtbm1LSjZPeGFObC1odVlIZ1BLMXl0a0o4dXN5elpkYUNOUFdUb2xyZXFYa1dRbi1iMlY0QWVWY2RYSjJ1RXp6MzZDWkNPUXl0M25fOXdXN0FDdFc0UTJ0OFdIVE9tMDdpM0hWcWQ?oc=5",
+      "fetched_at": "2026-08-11T11:31:31.199285+00:00"
+    },
+    {
+      "id": "f9ea75fb-cee6-4452-be4b-d6909b71935d",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "wellness",
+      "headline": "Using ashwagandha? After food regulator issues a ban on leaves, experts weigh in - The Indian Express",
+      "url": "https://news.google.com/rss/articles/CBMitAFBVV95cUxPQWFNRkRwTnI2TndhbXMwNDd1SVVtTlBXUjV4V1hCNkxSNVNoS3pvWGxZbDdoT0k4Rkx4RFMxajhyNk5Cc2RlVnNhRFJ2V2IydjhiZ2s2UGFKNnVQQWVKVHJVZ0R4UWNRVGNEMkZreGt0aFhqTm1kclhQU0toV3FHdFM2cGQ3aXRjcDlMUXZBcHBONWp6VlJlMWd2UmNGa184WlJvQnhBVVZWTl9rSHVYYmw0SDjSAbsBQVVfeXFMUFdFck9NV0dUYXh0N1owT3RmTEpIem5GQzY4TGFodHIwV3JNZF9PRWNBR0xEWm9ocjB5Q1haVFNLdnhLVDNsMHhDT3ZjV3FDRVdzZlBCdXZTRjBmMTM3cUV4TXZucjllWmFma3lDWGtqamtpSWs2dEQ2T1BHM01Zcm56azlyWmtHTWV4S2lVOGF1YzR6UlRnVXlRMm5rVnZxa3pKMC1nRWlSV1JqaVZ0RHQtVENVZVdXbjVpWQ?oc=5",
+      "fetched_at": "2026-08-11T11:31:32.550279+00:00"
+    },
+    {
+      "id": "cae16f4c-73ca-4c41-88ff-27c46394637b",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "wellness",
+      "headline": "Why Ashwagandha isn’t for everyone: Benefits, risks, and who should avoid it - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi8gFBVV95cUxOR3F6WS1BQ0lCN0NYQmQyTDJWWlJrVXB5aGVabzZ6NmxQN2RYWm1IajdKb1UwY0NLZWVsbE0tak9mZy1BZ3p5RFRrRElGXzJpaV9MSjVGWDVfOXRWLUhneXA2RkJkS21KeF9wck5UMVY4V2Z0MldSdlBSQXdxWWpRVktEaGZHYk95UUQwcVJLQ1F2cnpORXItZVh1ejQ4UFI4ZlBkSEJ2ZjBFNGxhVXhwRld1VU1NYUxQZVN0QjVYa0M1MW5lWGxlSV9iYnBaMGFDNFBKNnhkVTZSUWVmVDk4b29XM1N0enBYcFFhMGRjc24zZ9IB9wFBVV95cUxQblg4MTRWc3ZQREdLWmlLVURralliRWVlTVNZd2V0RkQ1dFdselpWZUpzM0I0UTBSeWFfRjNhNzM1dkwwNUp6dlVhNERXMUpuMkg3cGFtRUNwaHRfTkNmdy1PY0hSX1ExcVRKT2RwckVjWXJIeENDNVlpYTEyNTVmNFdnVUZmY0w3RFpwVFk5a0w0eEttYmtBaWk5NGVfQUNZajZwV3Nsb2kxUlBDS3IxaHo3a3BTc3N1WUJxTmQyS2NaMElIWnNjT3Z1bmpncTlFNk9admVsM1QzUENabG5mNVlHbEpsNEwtVUdneWUxdVNXdmJjLXhR?oc=5",
+      "fetched_at": "2026-08-11T11:31:32.550319+00:00"
+    },
+    {
+      "id": "1e9c4382-05d2-4747-b2be-32222d3a06a8",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "wellness",
+      "headline": "7 Health Benefits Of Ashwagandha, Backed By Research - Forbes",
+      "url": "https://news.google.com/rss/articles/CBMicEFVX3lxTFB4MVVLVHRrejdpRERYNlFBNlFXU3BNTXRQZUF3S0pnVEdJakhQOWxNYlBaQ25teUZQcXZsclB4Rlk3RDlDTnBQQURBUFN5Q2ZkaUxxOURORU9pTzFEMkJlc0VmTy1HQnFPd3lMQmdjN3E?oc=5",
+      "fetched_at": "2026-08-11T11:31:32.550340+00:00"
+    }
+  ]
+}

@@ -1,0 +1,16 @@
+{
+  "brand_id": "anaar",
+  "category": "luxury_fashion",
+  "mode": "fallback_seeded",
+  "generated_at": "2026-08-10T21:53:39.454593+00:00",
+  "competitor_flags": [
+    {
+      "id": "comp_luxury_fashion_1",
+      "name": "Sole House",
+      "brand_category": "luxury_fashion",
+      "price_range": "Rs.3999-Rs.14999",
+      "positioning": "premium Indian wedding footwear, artisanal embroidery positioning",
+      "seed": true
+    }
+  ]
+}

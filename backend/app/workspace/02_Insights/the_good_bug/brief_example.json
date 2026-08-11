@@ -1,0 +1,10 @@
+{
+  "brand_id": "the_good_bug",
+  "tension": "Example opportunity brief — replaced by a real Consumer Shastra run.",
+  "why_now": "Seed data for the Workspace browser demo.",
+  "confidence": 0.5,
+  "reactive": false,
+  "source_signal_ids": [
+    "seed-example-1"
+  ]
+}

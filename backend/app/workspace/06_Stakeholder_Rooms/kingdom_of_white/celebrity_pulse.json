@@ -1,0 +1,15 @@
+{
+  "brand_id": "kingdom_of_white",
+  "generated_at": "2026-08-11T17:43:12.841884+00:00",
+  "celebrity_flags": [
+    {
+      "id": "partner_3",
+      "display_name": "Sonam Kapoor",
+      "brand_id": "kingdom_of_white",
+      "baseline_sentiment": 0.82,
+      "risk_flag": null,
+      "buzz_count": 3,
+      "seed": true
+    }
+  ]
+}

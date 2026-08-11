@@ -1,0 +1,16 @@
+{
+  "brand_id": "foodstories",
+  "category": "food",
+  "mode": "fallback_seeded",
+  "generated_at": "2026-08-10T22:04:07.467713+00:00",
+  "competitor_flags": [
+    {
+      "id": "comp_food_1",
+      "name": "Slurrp Farm",
+      "brand_category": "food",
+      "price_range": "Rs.99-Rs.499",
+      "positioning": "curated healthy-snacking, strong online gourmet presence",
+      "seed": true
+    }
+  ]
+}

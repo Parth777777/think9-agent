@@ -1,0 +1,17 @@
+{
+  "brand_id": "beauty_by_bie",
+  "category": "beauty",
+  "generated_at": "2026-08-11T13:54:19.015946+00:00",
+  "creator_candidates": [
+    {
+      "id": "84bbd454-9dc0-4524-9266-a5f33abb8124",
+      "handle": "seed_beauty_creator",
+      "context": "",
+      "platform": "youtube",
+      "category": "beauty",
+      "fit_score": 0.6,
+      "source_url": "",
+      "seed": true
+    }
+  ]
+}

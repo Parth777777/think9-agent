@@ -1,0 +1,38 @@
+{
+  "generated_at": "2026-08-11T18:42:40.938846+00:00",
+  "synergy_map": [
+    {
+      "brand_a": "the_good_bug",
+      "brand_b": "neude",
+      "shared_segments": [
+        "premium"
+      ],
+      "suggestion": "The Good Bug and Neude share premium - consider cross-promotion or Broadway bundling"
+    },
+    {
+      "brand_a": "the_good_bug",
+      "brand_b": "panchamrit",
+      "shared_segments": [
+        "gut_health"
+      ],
+      "suggestion": "The Good Bug and Panchamrit share gut_health - consider cross-promotion or Broadway bundling"
+    },
+    {
+      "brand_a": "neude",
+      "brand_b": "beauty_by_bie",
+      "shared_segments": [
+        "clean_beauty"
+      ],
+      "suggestion": "Neude and Beauty by Bie share clean_beauty - consider cross-promotion or Broadway bundling"
+    },
+    {
+      "brand_a": "amar_chitra_katha",
+      "brand_b": "tinkle",
+      "shared_segments": [
+        "parents_children",
+        "cultural_ip"
+      ],
+      "suggestion": "Amar Chitra Katha and Tinkle share parents_children, cultural_ip - consider cross-promotion or Broadway bundling"
+    }
+  ]
+}

@@ -1,0 +1,20 @@
+{
+  "id": "amar_chitra_katha",
+  "name": "Amar Chitra Katha",
+  "category": "cultural_media",
+  "positioning": "Indian mythology, history, and folklore extended into animation and digital platforms for a new generation of readers.",
+  "tone": [
+    "nostalgic",
+    "educational",
+    "vibrant"
+  ],
+  "banned_claims": [
+    "historically 100% accurate",
+    "guaranteed to teach values"
+  ],
+  "consumer_segments": [
+    "cultural_ip",
+    "parents_children"
+  ],
+  "known_pitfalls": []
+}

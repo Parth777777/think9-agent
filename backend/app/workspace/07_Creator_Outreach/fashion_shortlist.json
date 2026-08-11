@@ -1,0 +1,17 @@
+{
+  "brand_id": "kingdom_of_white",
+  "category": "fashion",
+  "generated_at": "2026-08-11T17:43:29.890953+00:00",
+  "creator_candidates": [
+    {
+      "id": "418636e1-4602-45f3-a999-b23d8d2fb55d",
+      "handle": "seed_fashion_creator",
+      "context": "",
+      "platform": "youtube",
+      "category": "fashion",
+      "fit_score": 0.6,
+      "source_url": "",
+      "seed": true
+    }
+  ]
+}

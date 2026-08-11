@@ -1,0 +1,16 @@
+fastapi==0.115.0
+uvicorn[standard]==0.30.6
+langgraph>=1.0.0,<2.0.0
+langchain-core>=0.3.0
+langchain-groq>=0.2.0
+langchain-google-genai>=2.0.1
+pydantic>=2.7
+pydantic-settings==2.5.2
+feedparser==6.0.11
+httpx==0.27.2
+requests==2.34.2
+python-dotenv==1.0.1
+# P1
+instaloader==4.13.1
+scrapfly-sdk==0.8.24
+pytrends==4.9.2

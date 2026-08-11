@@ -1,0 +1,79 @@
+{
+  "brand_id": "beauty_by_bie",
+  "category": "beauty",
+  "generated_at": "2026-08-11T13:54:04.513084+00:00",
+  "signals": [
+    {
+      "id": "66928ff1-0624-4089-b7d5-dba6bd658094",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "beauty",
+      "headline": "Retail India News: Billu Salon Eyes Rs 100 Cr Revenue Growth - Indian Retailer",
+      "url": "https://news.google.com/rss/articles/CBMimwFBVV95cUxQaFJuR3AyODlYSVB2cGxhZFdlejFhbGNhdVdWa0tiMWdfcDhiWVZGY2UzdmVZMlktUHVnX3Jqa1JvUTFRMmVKbTBYdFlHNDdCLXgtZDNidXpQTmtKdzRIRHRJdnZIaWRtUkFBdGJseFVFMm9DUEtfY0hVdXh1RUNkN0NtM3owYmN0R0xrVzM3cmRNM2hkNWllYTdZVQ?oc=5",
+      "fetched_at": "2026-08-11T13:54:03.093890+00:00"
+    },
+    {
+      "id": "b82afe49-b288-448d-98a9-23767aa09f76",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "beauty",
+      "headline": "After K, J and C, I-beauty gains ground as India eyes a global skincare breakout - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMiygFBVV95cUxPMVRwOUVqUmQzdWZtVzdRRGZ4X3ZXbW0wSVZfRHBQcjlhSWRZb0tZVE0xZmZzb21QV3A3dy1CaFMxem0ySi1sYk9hMXQ2NVIzazN0SzBjQ3dpdGdWQTJ2cnJwRk9EQmpESGRWUkFyTGl3Z3RMY0JmN1laY0wwQXo0SGg5Q0RrU1g1RmQxZ0h0ZTNSU2M3S2JFa1FWaE9NNFI5Sy1XenRmckRWV1daeHRrdnBJcDc2NGtjSm5mSGtJdjU4dDh4aFp5N05B0gHPAUFVX3lxTFAzU0xKMG9GU01oMGp0Y2M0YS1oSnJIU3Q5VkV6UXVVNFh4RC1hTnVWbHd0UmR1cGs3Sm5rZHJ3c2N6MXl1VnhJc1FEOXExTVlOZVJLUldGX0NaOFZUaTd5R2VIN1hOeE9nYTg0ZzE0SXpZNXppQ0hiRGRudjI2Wkw4S19PLWNlN3l0TUFpVXMwUFdJNWczc05CeHZHUGxHME0xUFhicUJLTm1wSXEzTk5oXzB1eWVuM1ktdHBlMGN4NVhQVDY4X3loT0dvS0Nsaw?oc=5",
+      "fetched_at": "2026-08-11T13:54:03.093953+00:00"
+    },
+    {
+      "id": "e059c949-c85f-4c55-9a29-40e3b0496803",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "beauty",
+      "headline": "Consumer forum asks RWA to pay resident Rs 1L for dog bite - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMiywFBVV95cUxPNTUtNmRjUEVHYThQZDVlVlRSMm85bmlpdWppdGxlMmFjRVQ2b2pBd19qYm9leE9LbXZGajZMai15ZFpTN05RSjdHT0xIWUMzNzNBRXY5cWtPWWlDS0Nsa04yQUlRYUllN21sVjQ2MFowOXR3OEE0ZmxmM3paRUNoc25QNGFfclVMVUhGR2lFRjlQU1FMM2NCN1dPRUF4LXNDNTlRdk9KVWtIZjJndzdoMldjSHVETGVZaHVZZURZZ2Q1RWl3dEZQWHRSNNIB0AFBVV95cUxQWFM4dDN3eGpnRnFVdDZlY0VrX2paZXl4cUxkOVlGWHFpUTFlNWY5cjBMQ1pNQUtlejAxSUZuLTlhNjRRYU9nNG9FMEVoQnU0eTcyV2pGRE05aGVtMXBkMTFTVlV4dTZmQlFWOFExNjNkbi12QWpBbERZVkVGUXozUHhHR185TUtnQzlKeURJb01zNnA3dFJFUFdpYmgwejJPSzNYSWtUQlRCUlBPVDkyZHM1UjJsOWNiRzFHNWVBODc1YWZUNHB3ckVaRzdqeFA5?oc=5",
+      "fetched_at": "2026-08-11T13:54:03.093983+00:00"
+    },
+    {
+      "id": "54b291ef-5c5e-4fd1-928d-15536bec0080",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "beauty",
+      "headline": "Nykaa's Content-to-Commerce Integration Model - markhub24.com",
+      "url": "https://news.google.com/rss/articles/CBMiggFBVV95cUxQbjRZWVpkaTRkRGZ0TzRjcS0tWFRYNVBRWkJtUVpOOEtCN0hjRnNmOUpNSzZiWFROWVloNTZKUGg0Qy1oTDlFRkI2Ymtyby1fX0N1cnBhejhxV1hpcFBEVktyS1J1cndQUjgwOU10a0dCT3VSV0xaellZYjloc2ZDYW9R?oc=5",
+      "fetched_at": "2026-08-11T13:54:03.094012+00:00"
+    },
+    {
+      "id": "8e74faca-ca11-4ff6-989a-a756c0ae3a23",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "beauty",
+      "headline": "Nykaa Takes Indian Beauty Global with UK Debut - thewire.in",
+      "url": "https://news.google.com/rss/articles/CBMijgFBVV95cUxQNDF6OFJlWDB3dDRrYmZSWjI0MnFjTU9lbTlINk1ENnF5X2JkMXdmY2IyRjQ3T3F3bjFIMlZ0Z2JDT09IMW9DVEFjb1M0Qjg2SEtNODlhQjYyelBVQU50bENveVdETm45cnJ5ZlBSeXdSNkEwRjhtc0tucVdqX0kxWVdQSkRXTVpUT3BPNUFB0gGTAUFVX3lxTE1JWGJyOXRXTzJ1XzhxeU0xa2FZN3VBNHo4QkFRR19jeWpSMEdhanRRaThMdHRaNm9jVE5xY1BUblNKeXU2M2hHY2xxX1ZXa0pXZVA1dHBaYWNtUmFnNWVKc1RYeDI4REljZmFCRXBhaFQzaEZ5alVnTzNtZGxSOFJMMHJQbXlsMWc4ZUpZS0k5Mk5GQQ?oc=5",
+      "fetched_at": "2026-08-11T13:54:03.094040+00:00"
+    },
+    {
+      "id": "427a598e-0486-4004-8b31-480df0b3de0b",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "beauty",
+      "headline": "Bio-Fermented Actives Market | Global Market Analysis Report - 2035 - Future Market Insights",
+      "url": "https://news.google.com/rss/articles/CBMifkFVX3lxTFBIUkNMSkJLQ2Z0dmd6TjdXbnVzLWdlQ2J2NTBnQ0Z4QVl0aVNMdDM2QUV6dWh1Qy1vM290V01xRHAybmV1NzQ1U0N3Y3ZjTTlXd1B6YmJzMjFramRlQzBPRERjb29oeXRVTzJsOTRkeFBzRGduNDYxM3V0TVJTUQ?oc=5",
+      "fetched_at": "2026-08-11T13:54:04.512783+00:00"
+    },
+    {
+      "id": "d8f8e779-c4c8-431b-a419-639e5b30709a",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "beauty",
+      "headline": "Lactobacillus Ferment Lysate Market | Global Market Analysis Report - 2035 - Future Market Insights",
+      "url": "https://news.google.com/rss/articles/CBMihwFBVV95cUxPbGJKdGhOcEZoOXU4QndNRFM2TjZWaFNuR3JYZDZiVThQT21ZT2VheE1lRUVUR0YxQkk2QlN2NmQxVVh1NjF6d3Q1ZmR6UlR2bVl5SjE2Q1pjMl9yRm9Gd2JpWHBpX3ppamJaWmxmdnFaZDQycmltdS1mWnpLVk5vZlhRT0xnRU0?oc=5",
+      "fetched_at": "2026-08-11T13:54:04.512850+00:00"
+    },
+    {
+      "id": "dfac0f11-4c1a-40a7-b556-791c34fa014b",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "beauty",
+      "headline": "Slugging is passé, fermented skincare is the next ‘it’ thing in 2023 - Vogue India",
+      "url": "https://news.google.com/rss/articles/CBMimAFBVV95cUxNcU55TC01amRUZmpNa3BDcl9GOXZ2Mm8zMV92UlZIZFIxLVZGWHViaVBOWXdSeFBwOTUza0stT1Y5R2VnNEJYaUl6QkNBMWQ1VzdEb1Nvb1NHUk45bGRBSDFoOEdlTy1UUlREaG9pVTJ5TDhYTFhyaXNqdnRaeDM5bVNuUUVsVVBWTjhzUEZVUTZ4SkZmTmFYdQ?oc=5",
+      "fetched_at": "2026-08-11T13:54:04.512884+00:00"
+    }
+  ]
+}

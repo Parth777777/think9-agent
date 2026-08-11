@@ -1,0 +1,20 @@
+{
+  "id": "tinkle",
+  "name": "Tinkle",
+  "category": "childrens_media",
+  "positioning": "A legacy Indian children's entertainment brand extended into digital platforms and new formats, built on decades of trust with parents.",
+  "tone": [
+    "playful",
+    "mischievous",
+    "wholesome"
+  ],
+  "banned_claims": [
+    "guaranteed grade improvement",
+    "direct calls-to-buy aimed at children"
+  ],
+  "consumer_segments": [
+    "cultural_ip",
+    "parents_children"
+  ],
+  "known_pitfalls": []
+}

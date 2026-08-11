@@ -1,0 +1,29 @@
+{
+  "id": "superyou",
+  "name": "SuperYou",
+  "category": "nutrition",
+  "positioning": "Protein delivered through familiar, convenient, everyday snack formats for a generation that finds supplement powders unappealing.",
+  "tone": [
+    "playful",
+    "confident",
+    "energetic"
+  ],
+  "banned_claims": [
+    "clinically proven",
+    "instant results",
+    "guaranteed muscle gain"
+  ],
+  "consumer_segments": [
+    "protein_snacking",
+    "gen_z_gen_alpha"
+  ],
+  "known_pitfalls": [
+    "Guardian review failed to parse — treated as a fail, needs manual review.",
+    "Tone is somewhat generic and lacks a unique playful twist",
+    "Implicitly suggests health benefits without clear attribution, potentially implying a banned claim",
+    "Language is not specific enough to distinguish SuperYou from other protein snack brands",
+    "Tone, while energetic, lacks a unique playful twist to truly distinguish it from generic marketing language",
+    "Implicitly suggests health benefits (e.g., 'fuel your active lifestyle') without clear attribution, potentially implying banned claims",
+    "Language is not specific enough to uniquely identify SuperYou among other protein snack brands"
+  ]
+}

@@ -1,0 +1,17 @@
+{
+  "brand_id": "the_good_bug",
+  "tension": "Unable to synthesize a specific tension for The Good Bug from current signals.",
+  "why_now": "Fallback brief — LLM synthesis failed or returned unparsable output.",
+  "confidence": 0.2,
+  "reactive": false,
+  "source_signal_ids": [
+    "16a04d1c-dcea-431e-adfb-a9e3eb989004",
+    "7b0ca23b-3679-48da-91e1-01d32b9cd3cb",
+    "e2cef2e0-e30c-4b72-a54a-a27d81463257",
+    "e8b4c220-0966-46df-a737-4e3b8e716c87",
+    "7830e493-fe91-4af5-944f-0ca6d0dcf22f",
+    "8a922461-a64f-46b6-8683-20cec53e4d6b",
+    "60e083e6-e16f-406d-850e-70c374baec34",
+    "15176690-a400-47e7-9f3c-110bf8de54a2"
+  ]
+}

@@ -1,0 +1,35 @@
+{
+  "brand_id": "broadway",
+  "category": "retail",
+  "generated_at": "2026-08-10T21:54:57.005247+00:00",
+  "signals": [
+    {
+      "id": "cc5a7252-ebc2-4836-bbbc-5e7f65695705",
+      "source": "reddit",
+      "mode": "fallback_seeded",
+      "brand_category": "retail",
+      "headline": "[seeded] r/india+r/IndiaBusiness fetch blocked (consent-wall/bot-check response, not a network outage) in this environment",
+      "url": "",
+      "fetched_at": "2026-08-10T21:54:53.205008+00:00"
+    },
+    {
+      "id": "3e557a04-296a-409e-803b-2e8a29980e50",
+      "source": "youtube",
+      "mode": "fallback_seeded",
+      "brand_category": "retail",
+      "headline": "[seeded] YouTube search-RSS unavailable (search_query is not a supported public feed param) for 'Broadway retail India'",
+      "url": "",
+      "fetched_at": "2026-08-10T21:54:53.847615+00:00"
+    },
+    {
+      "id": "dc735515-843b-4533-8007-3939c39d4cc1",
+      "source": "instagram",
+      "mode": "fallback_seeded",
+      "brand_category": "retail",
+      "headline": "[seeded] #retail best-effort Instagram fetch unavailable in this environment",
+      "url": "",
+      "fetched_at": "2026-08-10T21:54:57.005185+00:00"
+    }
+  ],
+  "instagram_mode": "fallback_seeded"
+}

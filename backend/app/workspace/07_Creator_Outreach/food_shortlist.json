@@ -1,0 +1,16 @@
+{
+  "brand_id": "foodstories",
+  "category": "food",
+  "generated_at": "2026-08-10T22:04:13.444465+00:00",
+  "creator_candidates": [
+    {
+      "id": "c336da05-6a4c-46b4-ba3f-0405442602e9",
+      "handle": "seed_food_creator",
+      "platform": "youtube",
+      "category": "food",
+      "fit_score": 0.6,
+      "source_url": "",
+      "seed": true
+    }
+  ]
+}

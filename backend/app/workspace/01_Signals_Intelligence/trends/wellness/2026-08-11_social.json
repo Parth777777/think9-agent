@@ -1,0 +1,78 @@
+{
+  "brand_id": "the_good_bug",
+  "category": "wellness",
+  "generated_at": "2026-08-11T11:31:41.396275+00:00",
+  "signals": [
+    {
+      "id": "bbf5d148-88ba-49a4-92c6-5d9c0d9a1741",
+      "source": "reddit",
+      "mode": "fallback_seeded",
+      "brand_category": "wellness",
+      "headline": "[seeded] r/india+r/IndianSkincareAddicts fetch blocked (consent-wall/bot-check response, not a network outage) in this environment",
+      "url": "",
+      "fetched_at": "2026-08-11T11:31:34.805165+00:00"
+    },
+    {
+      "id": "481f9995-5bbf-4ea1-8cbf-fcfec4cfe98e",
+      "source": "youtube",
+      "mode": "live",
+      "brand_category": "wellness",
+      "headline": "Jiye Tere Hi Sahaare (Full Video) | Hon’ble CM Thalapathy Vijay | Jan Neta | H Vinoth | Anirudh",
+      "url": "https://www.youtube.com/watch?v=0d10dHLLJw4",
+      "fetched_at": "2026-08-11T11:31:40.159786+00:00"
+    },
+    {
+      "id": "aa35c552-1f7b-411b-b941-f6f3f6e36209",
+      "source": "youtube",
+      "mode": "live",
+      "brand_category": "wellness",
+      "headline": "Oru Pere Varalaaru (Tamil) Full Video | Hon’ble CM Thalapathy Vijay | Jana Nayagan| Anirudh,Vishal M",
+      "url": "https://www.youtube.com/watch?v=L3ePxNW0yFI",
+      "fetched_at": "2026-08-11T11:31:40.159812+00:00"
+    },
+    {
+      "id": "e88c00c9-15d8-4d40-94af-4d069f551b26",
+      "source": "youtube",
+      "mode": "live",
+      "brand_category": "wellness",
+      "headline": "Hanuman Chalisa (हनुमान चालीसा) (Lyrics) | Sachet Tandon | Bharat Goel | Bhushan Kumar | T-Series",
+      "url": "https://www.youtube.com/watch?v=qNCjnJw9nRo",
+      "fetched_at": "2026-08-11T11:31:40.159827+00:00"
+    },
+    {
+      "id": "88dc9ec0-71f9-4661-934d-5e1a8436273d",
+      "source": "youtube",
+      "mode": "live",
+      "brand_category": "wellness",
+      "headline": "Binte Dil Arabic Afro House Remix | Ranveer Singh | Arijit Singh | Ali Merchant | Padmaavat",
+      "url": "https://www.youtube.com/watch?v=sWIzIWHFvkA",
+      "fetched_at": "2026-08-11T11:31:40.159840+00:00"
+    },
+    {
+      "id": "e0c62d2f-1f1c-4894-bb16-2b79d61164be",
+      "source": "youtube",
+      "mode": "live",
+      "brand_category": "wellness",
+      "headline": "Barsaat Ki Dhun 8K Song | Rochak K Ft. Jubin N | Gurmeet C,Karishma S,Rashmi V,Ashish P | Bhushan K",
+      "url": "https://www.youtube.com/watch?v=dKIjbCYiwP4",
+      "fetched_at": "2026-08-11T11:31:40.159852+00:00"
+    },
+    {
+      "id": "667c6499-f4a5-4951-ad7e-1a5d00f779ab",
+      "source": "instagram",
+      "mode": "fallback_seeded",
+      "brand_category": "wellness",
+      "headline": "[seeded] #wellness best-effort Instagram fetch unavailable in this environment",
+      "url": "",
+      "fetched_at": "2026-08-11T11:31:41.386892+00:00"
+    }
+  ],
+  "instagram_mode": "fallback_seeded",
+  "social_buzz": {
+    "mode": "degraded",
+    "source_tier": "rss",
+    "subreddits": [],
+    "daily": [],
+    "top_posts": []
+  }
+}

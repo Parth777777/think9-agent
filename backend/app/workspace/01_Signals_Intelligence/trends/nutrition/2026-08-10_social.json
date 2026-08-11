@@ -1,0 +1,35 @@
+{
+  "brand_id": "superyou",
+  "category": "nutrition",
+  "generated_at": "2026-08-10T22:02:30.344553+00:00",
+  "signals": [
+    {
+      "id": "2aea18c4-a3c0-4077-a5f9-d862b85dfd00",
+      "source": "reddit",
+      "mode": "fallback_seeded",
+      "brand_category": "nutrition",
+      "headline": "[seeded] r/india+r/nutrition fetch blocked (consent-wall/bot-check response, not a network outage) in this environment",
+      "url": "",
+      "fetched_at": "2026-08-10T22:02:26.039221+00:00"
+    },
+    {
+      "id": "8f7819b4-fe0a-47ce-a1aa-b54517211eef",
+      "source": "youtube",
+      "mode": "fallback_seeded",
+      "brand_category": "nutrition",
+      "headline": "[seeded] YouTube search-RSS unavailable (search_query is not a supported public feed param) for 'SuperYou nutrition India'",
+      "url": "",
+      "fetched_at": "2026-08-10T22:02:26.689604+00:00"
+    },
+    {
+      "id": "8e531d0c-d987-46b6-a1d3-f24451f05888",
+      "source": "instagram",
+      "mode": "fallback_seeded",
+      "brand_category": "nutrition",
+      "headline": "[seeded] #nutrition best-effort Instagram fetch unavailable in this environment",
+      "url": "",
+      "fetched_at": "2026-08-10T22:02:30.344491+00:00"
+    }
+  ],
+  "instagram_mode": "fallback_seeded"
+}

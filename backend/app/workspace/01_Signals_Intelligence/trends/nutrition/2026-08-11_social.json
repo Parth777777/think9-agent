@@ -1,0 +1,149 @@
+{
+  "brand_id": "superyou",
+  "category": "nutrition",
+  "generated_at": "2026-08-11T18:44:56.399689+00:00",
+  "signals": [
+    {
+      "id": "cb1ad735-ebf2-4c8f-87f0-79de69f39fb3",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "nutrition",
+      "headline": "Ask India Thread",
+      "url": "https://www.reddit.com/r/india/comments/1ukeupo/ask_india_thread/",
+      "fetched_at": "2026-08-11T18:44:45.142800+00:00",
+      "author": "AutoModerator"
+    },
+    {
+      "id": "ba49f61f-9183-4bb8-a282-c5e29d5dc8d6",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "nutrition",
+      "headline": "Mental & Emotional Health Support Thread",
+      "url": "https://www.reddit.com/r/india/comments/1ukeupe/mental_emotional_health_support_thread/",
+      "fetched_at": "2026-08-11T18:44:45.142859+00:00",
+      "author": "AutoModerator"
+    },
+    {
+      "id": "9eabf407-564f-42a8-8bdb-1bdf64bc8ef9",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "nutrition",
+      "headline": "Phuket-Delhi Air India pilot tests positive for marijuana in 2nd dope test: Sources",
+      "url": "https://www.reddit.com/r/india/comments/1vljmph/phuketdelhi_air_india_pilot_tests_positive_for/",
+      "fetched_at": "2026-08-11T18:44:45.142892+00:00",
+      "author": "JKKIDD231"
+    },
+    {
+      "id": "63c8ae18-2d0e-4fb0-a024-14528e823066",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "nutrition",
+      "headline": "‘My father is in RSS’: India’s Gen Z confronts Modi-loving parents at home | Politics News",
+      "url": "https://www.reddit.com/r/india/comments/1vljw82/my_father_is_in_rss_indias_gen_z_confronts/",
+      "fetched_at": "2026-08-11T18:44:45.142920+00:00",
+      "author": "TheIndianRevolution2"
+    },
+    {
+      "id": "678cab91-63f0-4820-8f5b-f631e00364dd",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "nutrition",
+      "headline": "Amit Shah is ‘coward’ for not attending Parliament, says Congress",
+      "url": "https://www.reddit.com/r/india/comments/1vlo843/amit_shah_is_coward_for_not_attending_parliament/",
+      "fetched_at": "2026-08-11T18:44:45.142946+00:00",
+      "author": "TheIndianRevolution2"
+    },
+    {
+      "id": "efa44f8a-1da4-4900-941e-852d5c2c704c",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "nutrition",
+      "headline": "History will indeed remember Manmohan Singh kindly as most consequential PM: Sonia Gandhi",
+      "url": "https://www.reddit.com/r/india/comments/1vlbbkw/history_will_indeed_remember_manmohan_singh/",
+      "fetched_at": "2026-08-11T18:44:45.142973+00:00",
+      "author": "TheIndianRevolution2"
+    },
+    {
+      "id": "89bed373-bf8f-4958-b0b8-6307c9ac0a5e",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "nutrition",
+      "headline": "\"Joke's Nice, Game On\" Prakash Raj Claims Name Deleted From Voter List Amid SIR",
+      "url": "https://www.reddit.com/r/india/comments/1vlbowy/jokes_nice_game_on_prakash_raj_claims_name/",
+      "fetched_at": "2026-08-11T18:44:45.142997+00:00",
+      "author": "morose_coder"
+    },
+    {
+      "id": "b5dfe6f1-dff5-4246-9ed7-22234f694712",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "nutrition",
+      "headline": "56-Inch Ka Chhota Bandar, the Chant That Punctured Modi’s Image - The Wire",
+      "url": "https://www.reddit.com/r/india/comments/1vlb80v/56inch_ka_chhota_bandar_the_chant_that_punctured/",
+      "fetched_at": "2026-08-11T18:44:45.143021+00:00",
+      "author": "Yournewbestfriend_01"
+    },
+    {
+      "id": "e245905a-c025-4598-9b1a-b488310c71aa",
+      "source": "youtube",
+      "mode": "live",
+      "brand_category": "nutrition",
+      "headline": "Titli Lofi Mix: Shah Rukh Khan, Deepika Padukone | Chennai Express | Vishal-Sheykhar | DJ Alone",
+      "url": "https://www.youtube.com/watch?v=ePdGoFVd26k",
+      "fetched_at": "2026-08-11T18:44:53.707380+00:00"
+    },
+    {
+      "id": "6481388d-1ac2-4a02-b231-6f57920b9106",
+      "source": "youtube",
+      "mode": "live",
+      "brand_category": "nutrition",
+      "headline": "Boohe Baarian (Behind The Scenes) - Aditya Rikhari | Rochak Kohli | Roshni Walia | Bhushan Kumar",
+      "url": "https://www.youtube.com/watch?v=5CLsW_MBBxk",
+      "fetched_at": "2026-08-11T18:44:53.707442+00:00"
+    },
+    {
+      "id": "407c977c-45d0-483e-9668-360be59cf028",
+      "source": "youtube",
+      "mode": "live",
+      "brand_category": "nutrition",
+      "headline": "Shiv Tandav Stotram (Har Har Shiv Shankar) 8K |Sachet Tandon,Parampara Tandon | Bhushan Kumar",
+      "url": "https://www.youtube.com/watch?v=hTbcGMAbjzo",
+      "fetched_at": "2026-08-11T18:44:53.707478+00:00"
+    },
+    {
+      "id": "409c2029-2c5e-4157-bde7-b8599e0589a2",
+      "source": "youtube",
+      "mode": "live",
+      "brand_category": "nutrition",
+      "headline": "ABOUT TIME (Official Video): THUGS FROM OVERSEAS | T-SERIES",
+      "url": "https://www.youtube.com/watch?v=_ChuLJREtQ0",
+      "fetched_at": "2026-08-11T18:44:53.707511+00:00"
+    },
+    {
+      "id": "7f47b6c1-460f-473c-b7b7-0b630fadd1ca",
+      "source": "youtube",
+      "mode": "live",
+      "brand_category": "nutrition",
+      "headline": "Jiye Tere Hi Sahaare (Full Video) | Hon’ble CM Thalapathy Vijay | Jan Neta | H Vinoth | Anirudh",
+      "url": "https://www.youtube.com/watch?v=0d10dHLLJw4",
+      "fetched_at": "2026-08-11T18:44:53.707544+00:00"
+    },
+    {
+      "id": "4bbef810-5306-4ba0-b39d-0513f5e12d9c",
+      "source": "instagram",
+      "mode": "fallback_seeded",
+      "brand_category": "nutrition",
+      "headline": "[seeded] #nutrition best-effort Instagram fetch unavailable in this environment",
+      "url": "",
+      "fetched_at": "2026-08-11T18:44:56.382580+00:00"
+    }
+  ],
+  "instagram_mode": "fallback_seeded",
+  "social_buzz": {
+    "mode": "degraded",
+    "source_tier": "rss",
+    "subreddits": [],
+    "daily": [],
+    "top_posts": []
+  }
+}

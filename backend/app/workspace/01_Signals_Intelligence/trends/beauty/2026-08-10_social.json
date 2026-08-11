@@ -1,0 +1,35 @@
+{
+  "brand_id": "neude",
+  "category": "beauty",
+  "generated_at": "2026-08-10T22:06:53.539903+00:00",
+  "signals": [
+    {
+      "id": "c5259c92-4fb9-455f-9b0c-4df5db7097a1",
+      "source": "reddit",
+      "mode": "fallback_seeded",
+      "brand_category": "beauty",
+      "headline": "[seeded] r/IndianSkincareAddicts+r/india fetch blocked (consent-wall/bot-check response, not a network outage) in this environment",
+      "url": "",
+      "fetched_at": "2026-08-10T22:06:50.972587+00:00"
+    },
+    {
+      "id": "e5c72dcf-0664-45b1-ac61-89564c7a854a",
+      "source": "youtube",
+      "mode": "fallback_seeded",
+      "brand_category": "beauty",
+      "headline": "[seeded] YouTube search-RSS unavailable (search_query is not a supported public feed param) for 'Neude beauty India'",
+      "url": "",
+      "fetched_at": "2026-08-10T22:06:51.610970+00:00"
+    },
+    {
+      "id": "28e1dff1-8256-4b6e-82c8-2ec2dcdb7c34",
+      "source": "instagram",
+      "mode": "fallback_seeded",
+      "brand_category": "beauty",
+      "headline": "[seeded] #beauty best-effort Instagram fetch unavailable in this environment",
+      "url": "",
+      "fetched_at": "2026-08-10T22:06:53.539851+00:00"
+    }
+  ],
+  "instagram_mode": "fallback_seeded"
+}

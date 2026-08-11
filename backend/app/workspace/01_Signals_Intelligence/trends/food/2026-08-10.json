@@ -1,0 +1,79 @@
+{
+  "brand_id": "foodstories",
+  "category": "food",
+  "generated_at": "2026-08-10T22:04:09.875514+00:00",
+  "signals": [
+    {
+      "id": "a90465fb-d9fd-4261-b5f1-6714b7712bf3",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "food",
+      "headline": "Avni Biyani on Building Foodstories: Why Conscious Consumption Is Shaping India’s New Gourmet Culture - Outlook Luxe",
+      "url": "https://news.google.com/rss/articles/CBMi3wFBVV95cUxNaGJkb2ZPSDdWbWh0YnZjZEU1QUFnd1RZeHFmY1VDdEtndnFrTk1mSUZiVW45dDRTMnpMNlJhX2xKdllicmMyNHQ2Unc5UHVpU3FlMjVkSExiaGZjUHV6QnFlaW56SEtMNHFXYVZwQTJXZm5UalZlN0RScnV6MlNlekdRN2loT0wtdGVodXVXRk1ud3UxUlczTFFRUFhjbnFTRXZBVUZHS2lzZzhjZDJLY0lZTUJ3ckUxSWFpUzIzbWQ4UWoyaWExX3o1SEtYZUg1eEM2ZFItVmprc05sRzFJ0gHsAUFVX3lxTE5aOTA5SFVPb2RJWnh1V1BqcUE5X1ltcl9BOWdyTDc3WTdYRjlsNXJUdjlkUjh2MlRKVWMwWVJHY080b1kwbjZ1Qjh6SExGOUxKSkNBUlpBSVE3X19lNUpPV1FXeFMtbEdVdkp6YlRtUjJxaDVkWTluRTJjeEltMXhBdGd2LXN1UjFVR2ota255VkNkNl9KT0JMLUNLeGhJRXd0ZnlvYlR1R3FfZzBqSGppTmk5VmNuTm02anAtMUdKcGN4VmJGQXNGN0hoUTBXclAyMlVPdlhsUEU1RlNZSTA5SGZtVkRfSXhYQXR0?oc=5",
+      "fetched_at": "2026-08-10T22:04:08.522377+00:00"
+    },
+    {
+      "id": "8f3db255-93d5-4c3f-ad91-28df7e0cbda3",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "food",
+      "headline": "GIRS 2026: Foodstories targets India’s top 3 pc with experience-first gourmet retail strategy - ET Retail",
+      "url": "https://news.google.com/rss/articles/CBMiqwJBVV95cUxObldQQUJ2X3YyM3Q4YzRRclJKVTBWMDZNYk1qLWtKWnVWZVkzSmRITXlsWHZ1UGFLLTlIWlpjbnhVcjg4dlB4RkJ6WDNtSGlYZjdHS2p2Z2tIdnZOLXM0c1hwclI2ejdfZnBwdWhtYkRJWnBLMEtGS0NscENscU5mdVpZUmhGaDYtVjJ6ZlU4b0RidFdOUXY3anNlYUZrRGJpN0NjdS1ac1FDUzFRNXdfc3pZWHBZdFZseGw1NFdiVEVLSzRKMll2Z1BTNEVjRjBZX01SY1g1WTZsYXZRLTNFenBmS1pEUGVlNlgxakU5ajJkMWNsQ1ZpdU5BTXJOYXhxWFlZV2c5NUdDU1NSREtrZk02ckRnYWtCWk9ZTHVzaW1JQUhEVTNtcmQ3OA?oc=5",
+      "fetched_at": "2026-08-10T22:04:08.522403+00:00"
+    },
+    {
+      "id": "150ea2b6-4bbc-4eeb-b3ca-d8b73bc4b2b9",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "food",
+      "headline": "Foodstories enters Mumbai, bets on experience-led retail to build a ₹1,500-crore food business - Fortune India",
+      "url": "https://news.google.com/rss/articles/CBMi2AFBVV95cUxQWTJVZ3N5TFlmNGNBRVplb3U2WUp2OUFWR3NqZVg1Ri15YTkxYUdQVnhRNkk3QXlwbE9NRTBlWktIRUJZS3o0amtMTENGYjUzX0ZxZkpvTWZvdWw4VHVqZDVxRUZ2anhONW1JZWFieG1aMk9pdnVBZ1Zod09IUXJGWTBTLXVKamt4d3FKbEtfVHV3bWRHdkdnLUQ0ZkEyVFV2MlBpSVJncXNzSFJ3LWlUUURUcnprOHoxM1NQZmlCX1hXZjJ1ZjR4bVlBZ2FhTGxtN0lldEJHd2fSAeYBQVVfeXFMTVlpTV9YQ2dHQ1RmbmsteHNodk1BWG9nTDNWVmpEY0tMd1Nhd2wtYmtPNGV5aXhSajVodnBuc3Y5NnVQU2g5ZXp3MWJsRERRWHpJQUF0R3VwVnFuN1ZqRW03YUlUMDFVYkFhRGN5VWV6Um85QmRSWjlXOXB6c0ViRXJMdWhEb200QzJtUGE5TXBvbDVCUS01WkQ1RVNLeTNVdk1XWGNsS1JkOUZOWFRLbHMzWGJCZWJEazd6RlBzQ0RwSmE1RzZfNXZicndmemRWWnEwaGZKeEFTblpyeHMzV05paWdRTFE?oc=5",
+      "fetched_at": "2026-08-10T22:04:08.522417+00:00"
+    },
+    {
+      "id": "b52fd919-4438-4673-bd54-cabe1130e938",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "food",
+      "headline": "Our fastest-growing category is water: Ashni and Avni Biyani of Foodstories - Forbes India",
+      "url": "https://news.google.com/rss/articles/CBMiwwFBVV95cUxOMjhET2dVNnNnNnd4bGplNUp3TWQxQ0s1Y1lYd2lJVl8yYnFwaWM3U1hmRi1FWWtQeVVvN19kNV9uY19CMC1UQzVoLUwzSkRQUUZDQkt5UjZ2eTJoc2FVLXVqbWVoWDQ0Sm1UR3RRSWgxRnVBSVFlSGRRU2xPZzlqMVhfUzIxV2hBMmZhcXppeUlsYjF4bTJoRS1rZlVObWtzYk9VQ0lLN0JvaTRRN0tRRnJpcnVTYjZrNWxRYlpBZUdyMXPSAcgBQVVfeXFMTklkX3J6QTdOeE1lVmZ6UDJ0OFdoa1BwZE95SUlOOGY5VUFyVWUtdWZQRXRYSjNWSzdaN0VXWjQtZjhJenVuQWV1bmQxNjNBdWMybFpmbjc1M05NakJXVVZMNEtOYUU5VlRLT0ppRGVMNnBxLXM0cVJZZGJjTldkekNWYlZUbXEyZHEweFpEQWo2a3ktUG1neldwdm9hSVZfLThmdWQtTjRUWVYxbEpWRW1kRjNwYUIwOUtFbWNnWk9XMmVXeTI5N1k?oc=5",
+      "fetched_at": "2026-08-10T22:04:08.522430+00:00"
+    },
+    {
+      "id": "903bcf8c-b142-4aa9-ad28-bac7548f8961",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "food",
+      "headline": "Foodstories raises Rs 50 crore from Nikhil Kamath to expand curated food platform - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMi0wFBVV95cUxNb1FnRFNvLThNaFcwWTBGUXhUcEhHclFVV1VLUXVLaUJjc1pnaWxlNXhnNE94Q05kVjRSaF9VbFFpdm8yNVVFbUt3SldJMWdiNERLY2g5bGZpaTM4empQTkhmb1VXR1hlWG9PWng3OTdpTU5ET05XRkpMd1diNU0yNWd2U0JmTVlKQlJPNDUyYVFHbWlwVjBpWURXNlo5NnFiMWdqREEwaDNhNXg1QjV5REtwZjVUSzhuU3M4MkMzZ3RDVzlWVlJGWkhJSW56ZkQ4bFE40gHYAUFVX3lxTE04azlSWEo0RHN1eGswbEtkRk5vanA0b3Y4a19RdmhFdnBFQnlWNDRjVC1jRVFpWV9ialJtZkFqNVNlVjVVczhVeFRVNUZHQXkwVlctZW1kZU5aNDJDc2RvTHplZlRGbDl3TW5kd2wwNkZpN2JJOFZ1MEFDcXdPVUNIYS1OSFlJTEpfLWlkeGFSMHZua0FsQ3RyYWJ1a1kybERrY3FUWFlJbm5qY3EzUm83cmM1RGNUYkJfVjMwTndfb3UtQlZfbFdleDQ0bi1YQ0UzX01ackxPMw?oc=5",
+      "fetched_at": "2026-08-10T22:04:08.522441+00:00"
+    },
+    {
+      "id": "54b873ce-d9f6-4617-9e0a-b9f20652770b",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "food",
+      "headline": "Fermented food is 2026's biggest global wellness trend, but India has always had it on the table - CNBC TV18",
+      "url": "https://news.google.com/rss/articles/CBMi9wFBVV95cUxQU2xJZHhoUkszbjUxU0ZkaVBua2dRVFVrZlM2dTVBUlpZUUNGbHFTMWtFRjdXM2luUnMwaFVrQmR0SUdqMUZ0Y20zajhlUERrcV9ub19LbjJ0WlFWWUl1d1Z5OGxHS2dsYk5aanRFN1FJcHV1UlhXZzhBTk03Yi1uTWZZT2tOMFVweFA0STFyal9KSUxXdk04UkoxYkQ5WU04X3E1QkZaZTBZc0cxdzlZbmhnRkwwb1pIanQxMHFJZXNhS3hUQnJPRnFPUjFOZlRjY1F0OUNDU3Eyenc0T0s4eGtldVVLZ3VTdXJ1S0xKTk8xM0NYMUtj0gH8AUFVX3lxTFAzaktMM2tkM1ZTaTZrT3FSaWYyMzE0aC1takdvLXd4TVF3c0otNzNBTG9BVEFhRXFfMUNWTnlmU3N4VUlfbXVNM3BIdHBqTUR1ZnRieTFJbjJKcDEzcnE5THlrVEMyUENiSWNWdUtRTU44SmtDWWk3eXBRZVZVU0k0LWpQMHRJdExlVGdMU3BuaG5iRkFmVUZuVzgtQlZtdjhKd05GUWVvQ1JxUXQ4UGNwR2dTWWJPbVRLampEeXN3NFNXeHJSVmRCcTZzSV9EMElQYVdmVThuTTJrelhVQkZIdElsemxyalBMUTd1TUVSYXBEX2pGT282NWdUcg?oc=5",
+      "fetched_at": "2026-08-10T22:04:09.875318+00:00"
+    },
+    {
+      "id": "2b6c3578-309b-4ddf-b0e7-eaba180b9eb3",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "food",
+      "headline": "The Fermented Food Revival: Why 2025 became the year of gut health in India - The Times of India",
+      "url": "https://news.google.com/rss/articles/CBMi7gFBVV95cUxPQkhqQndNN2FpZU9xemY0ZlpGQkN4LWFxWnRPdmRfSmJnc1RtREh5TFdOc1htR2c2bFdJRGdGTkNYcEl3Q0ZsR2hUWVBER0JHR0t4TkpsXzMxR081YzVzRkZNaGs4RkZFbFktMXNtem1ybmYyWXhlTDFtZ21KWWY3WUNSWW9KZ2Z1VGN4WENqR25ZZlhZbUduS2Q0clJmLXJOQTVPLTY2OF9UaW5iUWlMeFlQdEZjTDRDaHJ5Zmh0eTV0dVE2QU9za0lUM1c3RnpQbUI2djI1YW9jUlZqTUJEVVJjOXE2M050X2hZMW9R0gHzAUFVX3lxTFB0eDlieDJrNkJ0ZmZGUlhGRmlFMUFCRTRJTkp4YUdqNkhWV1ZRXzNKUEdWOXNSSE9aWG1uRGpqcDJpNHE0Mlo3b0R6YzVSU2gyR29LZWN1UV91NFpaWmswZ1hHVHZHeHZOcTVWWld0VkxEOTZadG5reDlDeGt6c2pERU5tc2hhUEZUWVRWckh6ZlkyLXVOckRYTVBBYkJuQk5vRUVDNnpVX2NocDllTWpoTmpmZlMtZWJjclBnc1RHT3lSdWdzMVFxV3QzeV9Qam82dklCNDNpMUVmV1JmdEJkckZUNW1NNnd5cndCUk1ka2FRYw?oc=5",
+      "fetched_at": "2026-08-10T22:04:09.875344+00:00"
+    },
+    {
+      "id": "3da2610d-ef2d-44e6-ae92-4a2c3882dbea",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "food",
+      "headline": "Fermented Food and Beverage Market Forecast to 2035 - Future Market Insights",
+      "url": "https://news.google.com/rss/articles/CBMiiAFBVV95cUxNbnJnWHlMbEthY1diTDc3T0tTUDEyNlRiT2lDb3Y5UHJoQ25odWtQOEdfVkZMMXoxLTVDamtQbzhqNG9LSkRLNVU2NUJoeTl5VVdJYnVhb092MVdqd0txb3JObTlQcG1IaUg3a0kxbzNUNTh2bUhabjZUcU9OaWFYUEpKNFRESThj?oc=5",
+      "fetched_at": "2026-08-10T22:04:09.875358+00:00"
+    }
+  ]
+}

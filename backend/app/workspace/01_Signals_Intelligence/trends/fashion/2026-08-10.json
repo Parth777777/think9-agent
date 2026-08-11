@@ -1,0 +1,52 @@
+{
+  "brand_id": "kingdom_of_white",
+  "category": "fashion",
+  "generated_at": "2026-08-10T21:53:07.543209+00:00",
+  "signals": [
+    {
+      "id": "c4a01cb4-b81a-4efd-9d61-09a2a1c41e7a",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "fashion",
+      "headline": "Reliance's luxury unit brings Kim Kardashian's Skims to India - FashionNetwork France",
+      "url": "https://news.google.com/rss/articles/CBMirgFBVV95cUxOUV93OGtkLU5fQTZVYUFWRVdMbUE2RkZsR3hCOFlWakxvd0xST1dsOUl4U1JsU1ZIYUZ4QVpWV0ExN3V6WXdhY1lpV0pTNTBCODRNa2E0NUk3cGZLR0pKYUZQb0FLZXVCZWltMlkyZ3c2UVRvaHdVV3pUVEpIOExZMGl4bHZ1MWJlOVNydkFTLTJqWTEyX3ItSjV5TUoxMlRaVEpwTEU3ajVWT0pTWmc?oc=5",
+      "fetched_at": "2026-08-10T21:53:07.543076+00:00"
+    },
+    {
+      "id": "c1798a0f-b187-441b-9d05-45a9c9b87f1d",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "fashion",
+      "headline": "Broadway Expands To Pune With 25,000 Sq. Ft Experiential Retail Store At Kopa Mall - IFAB MEDIA",
+      "url": "https://news.google.com/rss/articles/CBMiZEFVX3lxTFBfYWhia2tFM2JwZW1hdHZwWWlJc3A1M0FhRnBGMFI0RWFLTENtZzJxbS1NU1ZXa0pQVkd4NHZCTjRFWXB0NzRhN1hkWGRJUFZ5VjVpVm5zcDBvb3hLOVBKczlya0U?oc=5",
+      "fetched_at": "2026-08-10T21:53:07.543100+00:00"
+    },
+    {
+      "id": "5eef35ee-0206-4656-9535-155c57dc1a53",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "fashion",
+      "headline": "Kingdom of White opens three new stores - Apparel Resources",
+      "url": "https://news.google.com/rss/articles/CBMikAFBVV95cUxPU3RPNVZWay1DQlZFMnVWajhwUHJfY3RmbndGdWdZUjh5c3ZXYXZDWG1PUVlsazdrUFR2eFB5RVVlcU5DSkZ5M2FZeU55akFBYU1KNkdhZXpzcUJhZm9OVFpxcnhLaDdBRGlCR3BvVnZrNjhmZFpwOV9oVTNlYU4zd3QweERLeE1LLXY4Wk5DVlc?oc=5",
+      "fetched_at": "2026-08-10T21:53:07.543114+00:00"
+    },
+    {
+      "id": "6c04973d-af0b-4c19-9ec1-b727eba506bc",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "fashion",
+      "headline": "Retail India News: Kingdom of White Expands Presence with New Store in Lucknow - indianretailer.com",
+      "url": "https://news.google.com/rss/articles/CBMipAFBVV95cUxNOGVUZDZUMFZpX1hvdjBCd1kydENHQWktOFkxR2lUTktCTjhoamNzMWRnMTlqVGVFOFdpd1NNY004cGlrR2hlY184Z0FBSTRweS1nYkFXVlJkVUk4SEJUdlZIMUVKdVlDNHN3Q2RPZC1UZGk5XzlUWURpN19nWVNTOW94NGlOcXBYOHBzZVlrUDJtNjRpWFhkdllaQ3BBc19rTG9lSg?oc=5",
+      "fetched_at": "2026-08-10T21:53:07.543126+00:00"
+    },
+    {
+      "id": "f2361484-87ab-489e-b788-6cfdf1d7efb9",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "fashion",
+      "headline": "Actor Rana Daggubati invests in lifestyle brand Kingdom of White - ET Retail",
+      "url": "https://news.google.com/rss/articles/CBMi4AFBVV95cUxQejFZd015NkFNM1pwckJUd1ZYWlBVaGZsVEk2S2YwaksyT1dUT1kweFB5VUVxX2pDR0hGUzZ1clMtTHFyQUFtMERmSE9lZFhmekRoOWtTQWpteFFfQXVMelhjVl9ucTRjYTNVcW5rZGhkcGJaUmlDdnRmTWc4UHRHejE4dHdJOVVKSERnME5vR1JDZjBzTzQ4VUJ3U2pEMWNrV2w5UEg1bTNfYWdEUHdwYm5kM1hXT0k0N3lKaWRlMEd5VGx2V014S25CS2FXcmlWY01IRmJILWprUHNMWmVMVg?oc=5",
+      "fetched_at": "2026-08-10T21:53:07.543138+00:00"
+    }
+  ]
+}

@@ -1,0 +1,21 @@
+{
+  "id": "anaar",
+  "name": "Anaar",
+  "category": "luxury_fashion",
+  "positioning": "Contemporary Indian wedding footwear combining traditional zardozi embroidery, comfort, and modern styling.",
+  "tone": [
+    "opulent",
+    "artisanal",
+    "celebratory"
+  ],
+  "banned_claims": [
+    "handmade",
+    "lifetime durability guarantee",
+    "one of a kind"
+  ],
+  "consumer_segments": [
+    "wedding_occasion",
+    "premium_footwear"
+  ],
+  "known_pitfalls": []
+}

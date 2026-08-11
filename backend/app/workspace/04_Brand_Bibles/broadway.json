@@ -1,0 +1,20 @@
+{
+  "id": "broadway",
+  "name": "Broadway",
+  "category": "retail",
+  "positioning": "Experiential physical retail infrastructure giving digital-first beauty, wellness, lifestyle, and food brands access to offline discovery and trial.",
+  "tone": [
+    "experiential",
+    "energetic",
+    "discovery-led"
+  ],
+  "banned_claims": [
+    "guaranteed footfall",
+    "guaranteed sales uplift"
+  ],
+  "consumer_segments": [
+    "experiential_retail",
+    "multi_brand_discovery"
+  ],
+  "known_pitfalls": []
+}

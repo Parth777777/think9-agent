@@ -1,0 +1,17 @@
+{
+  "brand_id": "neude",
+  "tension": "Unable to synthesize a specific tension for Neude from current signals.",
+  "why_now": "Fallback brief — LLM synthesis failed or returned unparsable output.",
+  "confidence": 0.2,
+  "reactive": false,
+  "source_signal_ids": [
+    "c1b91141-819e-4e21-a993-f24753f0213a",
+    "bc693f14-4a57-4887-b0df-97b0b5cdc9ae",
+    "bc427baa-184c-47ed-8438-013b27b2255a",
+    "c976eb9e-3436-4252-8973-0e713dbbd206",
+    "961ae2a5-b06e-49a8-9713-dea447d8a7e5",
+    "3090f230-c47c-45b6-b4f5-5bfdad40c918",
+    "a5ff0749-63c2-4c8b-83b1-2a8392d5c10c",
+    "d5b08046-3a7f-4b80-a350-411584eb1d55"
+  ]
+}

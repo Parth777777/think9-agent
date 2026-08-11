@@ -1,0 +1,16 @@
+{
+  "brand_id": "tinkle",
+  "category": "childrens_media",
+  "generated_at": "2026-08-10T22:06:03.651541+00:00",
+  "creator_candidates": [
+    {
+      "id": "54f8fef4-fbd8-4eb6-b93d-48c527f92931",
+      "handle": "seed_childrens_media_creator",
+      "platform": "youtube",
+      "category": "childrens_media",
+      "fit_score": 0.6,
+      "source_url": "",
+      "seed": true
+    }
+  ]
+}

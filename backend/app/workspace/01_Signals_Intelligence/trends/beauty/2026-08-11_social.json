@@ -1,0 +1,149 @@
+{
+  "brand_id": "beauty_by_bie",
+  "category": "beauty",
+  "generated_at": "2026-08-11T13:54:19.011128+00:00",
+  "signals": [
+    {
+      "id": "ee13e7e3-d425-4c84-9228-b27c95e7ed3e",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "beauty",
+      "headline": "Personal Help Thread: Have a question? ASK HERE",
+      "url": "https://www.reddit.com/r/IndianSkincareAddicts/comments/1vjxe2x/personal_help_thread_have_a_question_ask_here/",
+      "fetched_at": "2026-08-11T13:54:05.746001+00:00",
+      "author": "Avaale"
+    },
+    {
+      "id": "f514ab26-fcbe-4c6b-a390-e5e72546409a",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "beauty",
+      "headline": "Critique my Routine Tuesdays!",
+      "url": "https://www.reddit.com/r/IndianSkincareAddicts/comments/1vkt4aj/critique_my_routine_tuesdays/",
+      "fetched_at": "2026-08-11T13:54:05.746118+00:00",
+      "author": "Avaale"
+    },
+    {
+      "id": "c09503cc-5ad5-4ef8-9377-7749caf7b1b7",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "beauty",
+      "headline": "Dot n Key is now claiming a PPD of 35+ while even BOJ has a PPD of ~19.",
+      "url": "https://www.reddit.com/r/IndianSkincareAddicts/comments/1vldix8/dot_n_key_is_now_claiming_a_ppd_of_35_while_even/",
+      "fetched_at": "2026-08-11T13:54:05.746143+00:00",
+      "author": "Sad-Instruction4322"
+    },
+    {
+      "id": "f1f01ca4-6cae-447c-be3e-ce9d5acacefb",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "beauty",
+      "headline": "[31,F] [Oily Skin] My current skincare routine and experience with Minimalist",
+      "url": "https://www.reddit.com/r/IndianSkincareAddicts/comments/1vlh5dj/31f_oily_skin_my_current_skincare_routine_and/",
+      "fetched_at": "2026-08-11T13:54:05.746160+00:00",
+      "author": "EmotionalDamageINC"
+    },
+    {
+      "id": "25b95976-50c0-48b2-9a48-b0b72315a12b",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "beauty",
+      "headline": "Can acne scarring ever be fixed?",
+      "url": "https://www.reddit.com/r/IndianSkincareAddicts/comments/1vlftqk/can_acne_scarring_ever_be_fixed/",
+      "fetched_at": "2026-08-11T13:54:05.746175+00:00",
+      "author": "AlfalfaAdorable6286"
+    },
+    {
+      "id": "edc1f7bd-7197-44bf-af4d-46b9cd08b716",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "beauty",
+      "headline": "Went to a doctor and she gave me a skincare routine + medi facial reccs",
+      "url": "https://www.reddit.com/r/IndianSkincareAddicts/comments/1vlbr83/went_to_a_doctor_and_she_gave_me_a_skincare/",
+      "fetched_at": "2026-08-11T13:54:05.746189+00:00",
+      "author": "Diet_Coke3263"
+    },
+    {
+      "id": "5bc31dc9-0e8e-4a58-8fdd-5d0f7cb6e509",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "beauty",
+      "headline": "Tinted sunscreen- lakme query.",
+      "url": "https://www.reddit.com/r/IndianSkincareAddicts/comments/1vla3fq/tinted_sunscreen_lakme_query/",
+      "fetched_at": "2026-08-11T13:54:05.746203+00:00",
+      "author": "DirectorFrosty5678"
+    },
+    {
+      "id": "9c5774a1-65ce-47d9-afb4-eb472e6f0b30",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "beauty",
+      "headline": "How to get tretinoin and azelaic acid without prescription in india??",
+      "url": "https://www.reddit.com/r/IndianSkincareAddicts/comments/1vldncx/how_to_get_tretinoin_and_azelaic_acid_without/",
+      "fetched_at": "2026-08-11T13:54:05.746216+00:00",
+      "author": "onichannnnnnnnn"
+    },
+    {
+      "id": "11ee29a0-a37c-4f97-9789-a81186646302",
+      "source": "youtube",
+      "mode": "live",
+      "brand_category": "beauty",
+      "headline": "Shiv Tandav Stotram (Har Har Shiv Shankar) 8K |Sachet Tandon,Parampara Tandon | Bhushan Kumar",
+      "url": "https://www.youtube.com/watch?v=hTbcGMAbjzo",
+      "fetched_at": "2026-08-11T13:54:17.204239+00:00"
+    },
+    {
+      "id": "81c5871e-7213-478c-8a3a-fcffd17a85a9",
+      "source": "youtube",
+      "mode": "live",
+      "brand_category": "beauty",
+      "headline": "ABOUT TIME (Official Video): THUGS FROM OVERSEAS | T-SERIES",
+      "url": "https://www.youtube.com/watch?v=_ChuLJREtQ0",
+      "fetched_at": "2026-08-11T13:54:17.204287+00:00"
+    },
+    {
+      "id": "ff9ab854-9625-42c0-b152-c1c4cdd93802",
+      "source": "youtube",
+      "mode": "live",
+      "brand_category": "beauty",
+      "headline": "Jiye Tere Hi Sahaare (Full Video) | Hon’ble CM Thalapathy Vijay | Jan Neta | H Vinoth | Anirudh",
+      "url": "https://www.youtube.com/watch?v=0d10dHLLJw4",
+      "fetched_at": "2026-08-11T13:54:17.204307+00:00"
+    },
+    {
+      "id": "9c39eaae-2c03-4665-b805-907b1b88de48",
+      "source": "youtube",
+      "mode": "live",
+      "brand_category": "beauty",
+      "headline": "Oru Pere Varalaaru (Tamil) Full Video | Hon’ble CM Thalapathy Vijay | Jana Nayagan| Anirudh,Vishal M",
+      "url": "https://www.youtube.com/watch?v=L3ePxNW0yFI",
+      "fetched_at": "2026-08-11T13:54:17.204341+00:00"
+    },
+    {
+      "id": "98fc7845-b8b0-4cd2-b846-27a8fc441b28",
+      "source": "youtube",
+      "mode": "live",
+      "brand_category": "beauty",
+      "headline": "Hanuman Chalisa (हनुमान चालीसा) (Lyrics) | Sachet Tandon | Bharat Goel | Bhushan Kumar | T-Series",
+      "url": "https://www.youtube.com/watch?v=qNCjnJw9nRo",
+      "fetched_at": "2026-08-11T13:54:17.204370+00:00"
+    },
+    {
+      "id": "8f93a9a1-9e00-4d64-82d6-87a253d33e42",
+      "source": "instagram",
+      "mode": "fallback_seeded",
+      "brand_category": "beauty",
+      "headline": "[seeded] #beauty best-effort Instagram fetch unavailable in this environment",
+      "url": "",
+      "fetched_at": "2026-08-11T13:54:18.986966+00:00"
+    }
+  ],
+  "instagram_mode": "fallback_seeded",
+  "social_buzz": {
+    "mode": "degraded",
+    "source_tier": "rss",
+    "subreddits": [],
+    "daily": [],
+    "top_posts": []
+  }
+}

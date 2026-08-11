@@ -1,0 +1,35 @@
+{
+  "brand_id": "amar_chitra_katha",
+  "category": "cultural_media",
+  "generated_at": "2026-08-10T21:55:44.553252+00:00",
+  "signals": [
+    {
+      "id": "9b3e14e1-012f-4d61-9c6d-ba6aa68d826f",
+      "source": "reddit",
+      "mode": "fallback_seeded",
+      "brand_category": "cultural_media",
+      "headline": "[seeded] r/india+r/bollywood fetch blocked (consent-wall/bot-check response, not a network outage) in this environment",
+      "url": "",
+      "fetched_at": "2026-08-10T21:55:35.816881+00:00"
+    },
+    {
+      "id": "2aec1237-c280-4b40-998c-723d35d27e5d",
+      "source": "youtube",
+      "mode": "fallback_seeded",
+      "brand_category": "cultural_media",
+      "headline": "[seeded] YouTube search-RSS unavailable (search_query is not a supported public feed param) for 'Amar Chitra Katha cultural_media India'",
+      "url": "",
+      "fetched_at": "2026-08-10T21:55:36.448790+00:00"
+    },
+    {
+      "id": "a3277cdf-ba69-4376-9636-15a6eefb082a",
+      "source": "instagram",
+      "mode": "fallback_seeded",
+      "brand_category": "cultural_media",
+      "headline": "[seeded] #cultural_media best-effort Instagram fetch unavailable in this environment",
+      "url": "",
+      "fetched_at": "2026-08-10T21:55:44.553151+00:00"
+    }
+  ],
+  "instagram_mode": "fallback_seeded"
+}

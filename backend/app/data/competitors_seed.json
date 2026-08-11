@@ -1,0 +1,12 @@
+[
+  { "id": "comp_wellness_1", "name": "Yoga Bar Probiotics", "brand_category": "wellness", "price_range": "Rs.399-Rs.899", "positioning": "mass-market probiotic gummies, wide retail distribution", "seed": true },
+  { "id": "comp_wellness_2", "name": "Kapiva Ayurveda", "brand_category": "wellness", "price_range": "Rs.299-Rs.1299", "positioning": "Ayurveda-first wellness range, aggressive D2C discounting", "seed": true },
+  { "id": "comp_nutrition_1", "name": "The Whole Truth Foods", "brand_category": "nutrition", "price_range": "Rs.199-Rs.699", "positioning": "no added sugar protein bars/snacks, ingredient transparency positioning", "seed": true },
+  { "id": "comp_nutrition_2", "name": "Yoga Bar Protein", "brand_category": "nutrition", "price_range": "Rs.149-Rs.599", "positioning": "everyday protein snacking, broad modern-trade presence", "seed": true },
+  { "id": "comp_beauty_1", "name": "Minimalist", "brand_category": "beauty", "price_range": "Rs.299-Rs.999", "positioning": "clinical-ingredient-led skincare, transparency-first messaging", "seed": true },
+  { "id": "comp_beauty_2", "name": "Foxtale", "brand_category": "beauty", "price_range": "Rs.349-Rs.1499", "positioning": "dermat-backed, heavily influencer-marketed D2C skincare", "seed": true },
+  { "id": "comp_food_1", "name": "Slurrp Farm", "brand_category": "food", "price_range": "Rs.99-Rs.499", "positioning": "curated healthy-snacking, strong online gourmet presence", "seed": true },
+  { "id": "comp_fashion_1", "name": "Raymond", "brand_category": "fashion", "price_range": "Rs.1499-Rs.7999", "positioning": "legacy premium menswear, heavy offline distribution", "seed": true },
+  { "id": "comp_luxury_fashion_1", "name": "Sole House", "brand_category": "luxury_fashion", "price_range": "Rs.3999-Rs.14999", "positioning": "premium Indian wedding footwear, artisanal embroidery positioning", "seed": true },
+  { "id": "comp_retail_1", "name": "Nykaa Luxe Stores", "brand_category": "retail", "price_range": "n/a", "positioning": "multi-brand experiential beauty retail, strong metro footprint", "seed": true }
+]

@@ -1,0 +1,16 @@
+{
+  "brand_id": "broadway",
+  "category": "retail",
+  "generated_at": "2026-08-10T21:54:57.006749+00:00",
+  "creator_candidates": [
+    {
+      "id": "1ce1f8fe-4bb9-44fb-8bf7-accfce9961f5",
+      "handle": "seed_retail_creator",
+      "platform": "youtube",
+      "category": "retail",
+      "fit_score": 0.6,
+      "source_url": "",
+      "seed": true
+    }
+  ]
+}

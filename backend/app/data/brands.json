@@ -1,0 +1,274 @@
+[
+  {
+    "id": "the_good_bug",
+    "name": "The Good Bug",
+    "category": "wellness",
+    "positioning": "Science-led synbiotic supplements built around India's cultural association between digestion and overall health.",
+    "tone": [
+      "credible",
+      "warm",
+      "non-clinical"
+    ],
+    "banned_claims": [
+      "cures",
+      "guaranteed results",
+      "FDA approved",
+      "treats disease"
+    ],
+    "consumer_segments": [
+      "gut_health",
+      "premium",
+      "science_backed_wellness"
+    ],
+    "known_pitfalls": [
+      "Guardian review failed to parse — treated as a fail, needs manual review.",
+      "The tone, while warm, borders on generic marketing-speak and lacks a distinct, credible voice unique to The Good Bug",
+      "The phrase 'unlock a deeper sense of well-being' could be seen as implying a guaranteed result, which is not explicitly banned but walks a fine line",
+      "The tone, while warm, lacks a distinct, credible voice unique to The Good Bug, bordering on generic marketing-speak",
+      "The phrase 'lead to a more resilient and vibrant you' could be seen as implying a guaranteed result, which walks a fine line with banned claims",
+      "The ad variants use phrases like 'achieve a stronger digestive system' and 'experienced the benefits', which may imply guaranteed results or outcomes",
+      "The phrase 'vibrant, healthy life' could be seen as implying a guaranteed result, which walks a fine line with banned claims",
+      "The phrase 'cure digestive disease' is a banned claim",
+      "The phrase 'guarantee results' is a banned claim",
+      "The phrase 'clinically proven' is a banned claim",
+      "The phrase 'FDA approved' is a banned claim"
+    ]
+  },
+  {
+    "id": "superyou",
+    "name": "SuperYou",
+    "category": "nutrition",
+    "positioning": "Protein delivered through familiar, convenient, everyday snack formats for a generation that finds supplement powders unappealing.",
+    "tone": [
+      "playful",
+      "confident",
+      "energetic"
+    ],
+    "banned_claims": [
+      "clinically proven",
+      "instant results",
+      "guaranteed muscle gain"
+    ],
+    "consumer_segments": [
+      "protein_snacking",
+      "gen_z_gen_alpha"
+    ],
+    "known_pitfalls": [
+      "Guardian review failed to parse — treated as a fail, needs manual review.",
+      "Tone is somewhat generic and lacks a unique playful twist",
+      "Implicitly suggests health benefits without clear attribution, potentially implying a banned claim",
+      "Language is not specific enough to distinguish SuperYou from other protein snack brands",
+      "Tone, while energetic, lacks a unique playful twist to truly distinguish it from generic marketing language",
+      "Implicitly suggests health benefits (e.g., 'fuel your active lifestyle') without clear attribution, potentially implying banned claims",
+      "Language is not specific enough to uniquely identify SuperYou among other protein snack brands"
+    ]
+  },
+  {
+    "id": "kingdom_of_white",
+    "name": "Kingdom of White",
+    "category": "fashion",
+    "positioning": "Premium men's apparel focused exclusively on white clothing - shirts, trousers, and accessories - built around a sharply defined consumer identity.",
+    "tone": [
+      "minimal",
+      "premium",
+      "quietly confident"
+    ],
+    "banned_claims": [
+      "guaranteed fit",
+      "stain-proof for life",
+      "never yellows"
+    ],
+    "consumer_segments": [
+      "premium_menswear",
+      "occasion_wear"
+    ],
+    "known_pitfalls": []
+  },
+  {
+    "id": "neude",
+    "name": "Neude",
+    "category": "beauty",
+    "positioning": "Modern skincare inspired by Indian milk-based beauty rituals, combining heritage ingredients with contemporary formulation science.",
+    "tone": [
+      "modern",
+      "sensorial",
+      "heritage-rooted"
+    ],
+    "banned_claims": [
+      "dermatologically proven",
+      "skin whitening",
+      "instant fairness",
+      "permanent results"
+    ],
+    "consumer_segments": [
+      "clean_beauty",
+      "heritage_beauty",
+      "premium"
+    ],
+    "known_pitfalls": [
+      "Guardian review failed to parse — treated as a fail, needs manual review."
+    ]
+  },
+  {
+    "id": "beauty_by_bie",
+    "name": "Beauty by Bie",
+    "category": "beauty",
+    "positioning": "Clean, science-led, cruelty-free skincare positioned around transparent formulations and effective, honestly-communicated results.",
+    "tone": [
+      "transparent",
+      "credible",
+      "gentle"
+    ],
+    "banned_claims": [
+      "miracle",
+      "cures acne",
+      "clinically proven",
+      "permanent results"
+    ],
+    "consumer_segments": [
+      "clean_beauty",
+      "science_backed_skincare"
+    ],
+    "known_pitfalls": []
+  },
+  {
+    "id": "panchamrit",
+    "name": "Panchamrit",
+    "category": "wellness",
+    "positioning": "Ayurvedic wisdom translated into modern, everyday products for gut health, sleep, and immunity.",
+    "tone": [
+      "rooted",
+      "trustworthy",
+      "warm"
+    ],
+    "banned_claims": [
+      "cures",
+      "guaranteed results",
+      "treats disease",
+      "FDA approved"
+    ],
+    "consumer_segments": [
+      "gut_health",
+      "ayurveda_wellness",
+      "sleep_immunity"
+    ],
+    "known_pitfalls": [
+      "The tone, while warm, borders on generic marketing-speak and doesn't fully embody the unique warmth and trustworthiness of the Panchamrit brand",
+      "The phrase 'effective, everyday products' could be seen as implying a level of guaranteed results, which is not explicitly banned but walks a fine line",
+      "The draft could be more specific about what makes Panchamrit unique beyond 'traditional knowledge' and 'carefully selected ingredients', which could apply to any brand",
+      "The tone, while warm, leans towards generic marketing-speak and doesn't fully embody the unique warmth and trustworthiness of the Panchamrit brand",
+      "The phrase 'support your gut health, sleep, and immunity' could be seen as implying a level of effectiveness that walks a fine line with banned claims",
+      "The draft lacks specific details about what makes Panchamrit unique beyond 'traditional knowledge' and 'carefully selected ingredients'",
+      "The tone, while warm, still leans towards generic marketing-speak and doesn't fully embody the unique warmth and trustworthiness of the Panchamrit brand",
+      "The phrase 'create products that can be a part of your daily routine' could imply a level of effectiveness or guaranteed results, walking a fine line with banned claims",
+      "The draft lacks specific details about what makes Panchamrit unique beyond 'traditional knowledge' and 'carefully selected ingredients', making it interchangeable with other brands",
+      "The phrase 'nurture your gut health, sleep, and immunity' could be seen as implying a level of effectiveness that walks a fine line with banned claims",
+      "The phrase 'create offerings that can complement your daily routine' could imply a level of effectiveness or guaranteed results, walking a fine line with banned claims",
+      "The phrase 'provide a foundation for holistic well-being' could be seen as implying a level of effectiveness that walks a fine line with banned claims",
+      "'support your journey towards holistic well-being' could be seen as implying a level of effectiveness that walks a fine line with banned claims",
+      "'nurture your well-being' could imply a level of effectiveness or guaranteed results"
+    ]
+  },
+  {
+    "id": "anaar",
+    "name": "Anaar",
+    "category": "luxury_fashion",
+    "positioning": "Contemporary Indian wedding footwear combining traditional zardozi embroidery, comfort, and modern styling.",
+    "tone": [
+      "opulent",
+      "artisanal",
+      "celebratory"
+    ],
+    "banned_claims": [
+      "handmade",
+      "lifetime durability guarantee",
+      "one of a kind"
+    ],
+    "consumer_segments": [
+      "wedding_occasion",
+      "premium_footwear"
+    ],
+    "known_pitfalls": []
+  },
+  {
+    "id": "foodstories",
+    "name": "FoodStories",
+    "category": "food",
+    "positioning": "Curated organic produce, global ingredients, and artisanal products for affluent, discovery-driven consumers.",
+    "tone": [
+      "curated",
+      "premium",
+      "discovery-led"
+    ],
+    "banned_claims": [
+      "100% organic",
+      "farm guaranteed",
+      "chemical free"
+    ],
+    "consumer_segments": [
+      "affluent_food",
+      "gourmet_curation"
+    ],
+    "known_pitfalls": []
+  },
+  {
+    "id": "broadway",
+    "name": "Broadway",
+    "category": "retail",
+    "positioning": "Experiential physical retail infrastructure giving digital-first beauty, wellness, lifestyle, and food brands access to offline discovery and trial.",
+    "tone": [
+      "experiential",
+      "energetic",
+      "discovery-led"
+    ],
+    "banned_claims": [
+      "guaranteed footfall",
+      "guaranteed sales uplift"
+    ],
+    "consumer_segments": [
+      "experiential_retail",
+      "multi_brand_discovery"
+    ],
+    "known_pitfalls": []
+  },
+  {
+    "id": "amar_chitra_katha",
+    "name": "Amar Chitra Katha",
+    "category": "cultural_media",
+    "positioning": "Indian mythology, history, and folklore extended into animation and digital platforms for a new generation of readers.",
+    "tone": [
+      "nostalgic",
+      "educational",
+      "vibrant"
+    ],
+    "banned_claims": [
+      "historically 100% accurate",
+      "guaranteed to teach values"
+    ],
+    "consumer_segments": [
+      "cultural_ip",
+      "parents_children"
+    ],
+    "known_pitfalls": []
+  },
+  {
+    "id": "tinkle",
+    "name": "Tinkle",
+    "category": "childrens_media",
+    "positioning": "A legacy Indian children's entertainment brand extended into digital platforms and new formats, built on decades of trust with parents.",
+    "tone": [
+      "playful",
+      "mischievous",
+      "wholesome"
+    ],
+    "banned_claims": [
+      "guaranteed grade improvement",
+      "direct calls-to-buy aimed at children"
+    ],
+    "consumer_segments": [
+      "cultural_ip",
+      "parents_children"
+    ],
+    "known_pitfalls": []
+  }
+]

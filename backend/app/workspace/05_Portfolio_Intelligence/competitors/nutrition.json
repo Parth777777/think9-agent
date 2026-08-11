@@ -1,0 +1,24 @@
+{
+  "brand_id": "superyou",
+  "category": "nutrition",
+  "mode": "fallback_seeded",
+  "generated_at": "2026-08-11T18:44:41.155974+00:00",
+  "competitor_flags": [
+    {
+      "id": "comp_nutrition_1",
+      "name": "The Whole Truth Foods",
+      "brand_category": "nutrition",
+      "price_range": "Rs.199-Rs.699",
+      "positioning": "no added sugar protein bars/snacks, ingredient transparency positioning",
+      "seed": true
+    },
+    {
+      "id": "comp_nutrition_2",
+      "name": "Yoga Bar Protein",
+      "brand_category": "nutrition",
+      "price_range": "Rs.149-Rs.599",
+      "positioning": "everyday protein snacking, broad modern-trade presence",
+      "seed": true
+    }
+  ]
+}

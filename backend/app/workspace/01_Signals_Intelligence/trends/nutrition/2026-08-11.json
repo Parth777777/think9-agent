@@ -1,0 +1,79 @@
+{
+  "brand_id": "superyou",
+  "category": "nutrition",
+  "generated_at": "2026-08-11T18:44:43.600227+00:00",
+  "signals": [
+    {
+      "id": "6b298a55-589e-4ba8-91a5-b2ea0261c2de",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "nutrition",
+      "headline": "SuperYou Launches Protein-Packed Power Puffs Snack Range - Passionate In Marketing",
+      "url": "https://news.google.com/rss/articles/CBMi5wFBVV95cUxQRkhxU1RnaHo0N1JIem1ma1N3VkdUY0JTZ1lRclRtWndpYVNhTDdiUlN0Y3RubUlzY01xZXRlRmhzUWxoRTdoaHhNemt1R3NjVVY1YTEyQWhWY0lURmZ5ODlfWVd1Zktjc0pSMVlncHY0cXBHY0VEbjc5WVV1RVZ2NUdZemxUSXp2bVd0U0F3TUFRRllVVmY2a1EyV0Eta3Q2X1VrcUFYaXJtSFQxT1hvYklfejNIcUl6MXFZZ1ItTmhybzNobm5mTE9yNjNIUE81SzA5bGpfall2aTVmYmIzV3RZR3BhRDQ?oc=5",
+      "fetched_at": "2026-08-11T18:44:42.433865+00:00"
+    },
+    {
+      "id": "29dbe780-a064-4dce-b739-ac56ce06c3fc",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "nutrition",
+      "headline": "Protein in your coffee? Starbucks-SuperYou partnership taps India’s ‘permissible indulgence’ trend - ET Retail",
+      "url": "https://news.google.com/rss/articles/CBMilAJBVV95cUxQZGw3RXIydE1tN1FaRWUtN01PbGdCdk1pSllQMHl5TkQ0NzdEQlg5T3pVV1Q5dk40TzJ1aDk2WGF1OGZkY3J3TXZUWF9SM3VQbndEdUJOZEhrUkN0Y2Q5LWMwTEk3S2psSFhGMnIxZUJLamtxckdZWGdxWXZGdHJiTm9iZV9vNzNmQlktdjN2V2lSSkFibHVHWEYwSlVocmFZS0RBTjVJTFNnR0pyMW5GQW1OUFFuTV94R1JidlpsRUI0TFBsUkZIYjFWZlcwS0g2Q1c2dzdiR1ZTQ05GWjBnbnU5dGdsUmktMk5NVHZ0VjhuSnBicmoxZS1DaE85NjUyRzQwTzkxM0ZlSlRSSWRRemhBZEQ?oc=5",
+      "fetched_at": "2026-08-11T18:44:42.433892+00:00"
+    },
+    {
+      "id": "13c40ab5-58e3-4e82-a056-392812703298",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "nutrition",
+      "headline": "Ranveer Singh-backed SuperYou raises Rs 63 Crore in Series B, eyes aggressive expansion in India’s functional nutrition market - MediaNews4U",
+      "url": "https://news.google.com/rss/articles/CBMi6AFBVV95cUxQWDRFbHNpRDdfUURVZnJqdUJ5c3oyUkZtVV9pNGdpRUREbWZ5N1VlNTJLbTJ2b1pCWHF6TXg0Rm5ia0pFRFZBNGREQUoyUG9zekdCVW9GZzdocnl1c24yaHlQZ1lNNUF2Q2pFTGYtU00waHNIZ0ZIX0pQMXJTaVJFYVBTdlA2VjZBUnNLX2Q0T0xkV05hZTNmaGVaZUtEV0REeVlrc2hENGdTWkJmUlNOckphQ2JwaE1YUS1sOEZaTXVjSmQ5Z1BXakNNYkdJWm1aeVYxcWhxMlBCeFpMZ21ER1BJTlJQdlR2?oc=5",
+      "fetched_at": "2026-08-11T18:44:42.433906+00:00"
+    },
+    {
+      "id": "cdb4543f-7908-4f5d-9e86-f46abaf71507",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "nutrition",
+      "headline": "Starbucks, SuperYou expand partnership with protein cold foam beverages - Storyboard18",
+      "url": "https://news.google.com/rss/articles/CBMixAFBVV95cUxPNWRMaHZsZEt1WVEwZncyQzJnZHFqYUtfTkpaVnphUUVmdVVfTGxyYjRTMGFjRmZ2ajJDUzJaTGtKaWUtZ2k4UlNwQ3NIeVh5MVFuUnBSX3J2UTM0M0FkbVZ0NXB6US0zVHZBM0VlM1JUdks0RGhrcG9QRS05cnRHUzVXTWlaYkgzTFU1dExYWjNlNF9WUzJHMmhGSlhhQTJOaGJmM19NdDRPTlhTUTB4d2htSHd4QXBJM2RQNjhTVU54QXNL0gHKAUFVX3lxTE4xbjFNR0thYy1wNHAyd0JwYXVPQzEzWmxnS1ZBX044VTZxeHNVMlV5SUdKV1psQmMzZ1RwZE9mZlRCcEVQRXJ3YmVuNnJ4Zzd6ZFRnY09NZ2JmV19vTXR0QUNZd3VtY0hmMDFWLTZEdDFVNF9IYTJOeDZBdEpHVEx3X3c5LVU1aXR3S1RWSU0wbUVHdWJVMFB1dTBGVzYwdXlOVURWblUxOVJ6NVFFZHh0blgzbTE2OHYwX0dtcUtDMm5WQjVkVU93R0E?oc=5",
+      "fetched_at": "2026-08-11T18:44:42.433919+00:00"
+    },
+    {
+      "id": "80eee986-847d-4353-90df-876e4bebbbc2",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "nutrition",
+      "headline": "Ranveer Singh Co-Founded SuperYou Raises USD 7 Mn Funding Led by V3 Ventures - Entrepreneur India",
+      "url": "https://news.google.com/rss/articles/CBMiyAFBVV95cUxNSDNGY25ZczNkSGtPWTh1cmZYcEtabXpFZ1lnWFdTLWpKRTJjOVhma2lyNFE3QmxhREMtYmQ3T01EcEdZcjktaER6SzVaeTRlN3M4M25hem41d216Z01KWWRRVnJJUEFaaE84aVpIY3V2MjZGQWFUN3Y3a3g1TkgyWkdtS1lENlFMRHdaYVM4MDdDVTZ2MDFHZGtja3lXdXlIU1B6YUZ6bm9SRnNmRGROeFJSRG90eGlna1pMWUlwTVpZTVlvLTR0UQ?oc=5",
+      "fetched_at": "2026-08-11T18:44:42.433931+00:00"
+    },
+    {
+      "id": "7fdb6bac-b07b-4013-9e3f-17b192635b80",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "nutrition",
+      "headline": "Plant-based Snacks Market - Future Market Insights",
+      "url": "https://news.google.com/rss/articles/CBMiekFVX3lxTFAybUlERUwtSnVuRGNVb3VaTWplY0V1enB1Y05TTjNYV1F4NVlTdVR0RGhBdjJ1WDlZVkx5alVzWDVBZzJWc2FTak5IVEFMQVk1UmctYmh5ek0tVUZOOTh0OGFwdjFaOFZGQ0s4b202S0UyYmFEd2pONzRB?oc=5",
+      "fetched_at": "2026-08-11T18:44:43.599862+00:00"
+    },
+    {
+      "id": "25c8fc73-63cd-449d-b5c2-6f540f86e1f9",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "nutrition",
+      "headline": "86% Indians prioritise protein while choosing snacks: Report - ET Retail",
+      "url": "https://news.google.com/rss/articles/CBMi0AFBVV95cUxOM3ZqWklJSnRHOUd4SHN6LW40bGc4c0E2anNiN3ktQlNHc3pLS042dmtLcEZUWUhya3ZmNGtTNEhySzh2SFcyVDU0MFh4cWc3Z2NmcGMyM2o0dUJUUVFJaldUOF9YcGowTUV1U29oNS1UV0RCQWdwUGt0eFI4cUh1SGxDTGtLUmFzc1drTFlvTUljOEZxQm9GOFZBZl94LXNQa1J6Mk5iUzY4dmh3TlRlTndRcGdCUUUtRzdYSDlEbVFaSVdNLXh2NURfeXhzODNK?oc=5",
+      "fetched_at": "2026-08-11T18:44:43.599910+00:00"
+    },
+    {
+      "id": "1c777c9e-7d85-4bcd-860e-001641f9d47c",
+      "source": "news_rss",
+      "mode": "live",
+      "brand_category": "nutrition",
+      "headline": "Indians want quick bites that are clean-label and protein-rich - India Today",
+      "url": "https://news.google.com/rss/articles/CBMitwFBVV95cUxNUzFKMThUdFBiS1FXUmpMME40XzVtWUpMUUFMYVVKREVkaVRYMkN1UWpOX01WTHhNdTFyTEY4MTkwTndaVWR6UXhVQllOS01hTW82ZFRqZHlLMFZ3QkwzZTY0bTNsR19sRkdjZ1UyclhnZ1h5WHdESm40N2Q4NHZuRUVXN19pbHRnU0UtQURLanFjVDR3MHp0T1Z1VllZN19TMDliSmxhWVdTZ1dCVVBZR25ldmdhZGvSAbwBQVVfeXFMTkJ6N2lJOHJXVzdxX3lJRFdHbTRvZ09UcUgyRmdvejM2ZzRJQ3NfaDZsM0N3ME9zM3lrOUdtbFMzU1RqZ0pGYi13RVlzR2tKUjgyQmxmcHNmaVUzN2dNWWdDSXFyVXk4VE9MR0owZDdnQU1iQ3JmVWhOVVI3YTkwT3VvRy1udXVycmVXYWtEeExGYmt0eGRaWEVIMmFRN21SNlNFbUJnT004RkdsS0h2bldkRS15UXJmNGlFaFk?oc=5",
+      "fetched_at": "2026-08-11T18:44:43.599937+00:00"
+    }
+  ]
+}

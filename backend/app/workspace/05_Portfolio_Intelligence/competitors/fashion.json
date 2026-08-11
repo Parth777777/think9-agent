@@ -1,0 +1,16 @@
+{
+  "brand_id": "kingdom_of_white",
+  "category": "fashion",
+  "mode": "fallback_seeded",
+  "generated_at": "2026-08-11T17:43:11.358135+00:00",
+  "competitor_flags": [
+    {
+      "id": "comp_fashion_1",
+      "name": "Raymond",
+      "brand_category": "fashion",
+      "price_range": "Rs.1499-Rs.7999",
+      "positioning": "legacy premium menswear, heavy offline distribution",
+      "seed": true
+    }
+  ]
+}

@@ -1,0 +1,22 @@
+{
+  "id": "beauty_by_bie",
+  "name": "Beauty by Bie",
+  "category": "beauty",
+  "positioning": "Clean, science-led, cruelty-free skincare positioned around transparent formulations and effective, honestly-communicated results.",
+  "tone": [
+    "transparent",
+    "credible",
+    "gentle"
+  ],
+  "banned_claims": [
+    "miracle",
+    "cures acne",
+    "clinically proven",
+    "permanent results"
+  ],
+  "consumer_segments": [
+    "clean_beauty",
+    "science_backed_skincare"
+  ],
+  "known_pitfalls": []
+}

@@ -1,0 +1,8 @@
+[
+  { "id": "partner_1", "display_name": "Kubbra Sait", "brand_id": "neude", "seed": true, "baseline_sentiment": 0.78, "risk_flag": null },
+  { "id": "partner_2", "display_name": "Ranveer Allahbadia", "brand_id": "superyou", "seed": true, "baseline_sentiment": 0.65, "risk_flag": "public controversy history — monitor sentiment closely" },
+  { "id": "partner_3", "display_name": "Sonam Kapoor", "brand_id": "kingdom_of_white", "seed": true, "baseline_sentiment": 0.82, "risk_flag": null },
+  { "id": "partner_4", "display_name": "Rujuta Diwekar", "brand_id": "the_good_bug", "seed": true, "baseline_sentiment": 0.80, "risk_flag": null },
+  { "id": "partner_5", "display_name": "Masaba Gupta", "brand_id": "anaar", "seed": true, "baseline_sentiment": 0.75, "risk_flag": null },
+  { "id": "partner_6", "display_name": "Kusha Kapila", "brand_id": "beauty_by_bie", "seed": true, "baseline_sentiment": 0.71, "risk_flag": null }
+]

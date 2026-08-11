@@ -1,0 +1,32 @@
+{
+  "brand_id": "kingdom_of_white",
+  "tension": "The consumer is seeking exclusive and premium experiences, and the rise of luxury brands in India reveals a desire for high-end products that reflect their refined taste and status. This tension is particularly relevant in the men's apparel category, where consumers are looking for unique and sophisticated fashion statements.",
+  "why_now": "The recent expansion of Kingdom of White and the entry of international luxury brands like Skims into the Indian market indicate a growing demand for premium men's apparel, making it an opportune time to capitalize on this trend. The increasing focus on experiential retail, as seen in the launch of large-format stores, further emphasizes the need for immersive brand experiences.",
+  "confidence": 0.8,
+  "reactive": false,
+  "source_signal_ids": [
+    "02921288-e7f7-4819-9628-4e1b7f2b8f1a",
+    "ec892503-ff8b-4f62-bf37-b6b6f06a4260",
+    "7a4f309d-325f-409e-97db-afd2d996060f",
+    "404654c8-2b13-49c7-ba5c-f3a7d9e51c38",
+    "c89ddf0f-7ba7-4674-9019-e2c5148aed76",
+    "e87a1a54-6ba1-430f-9fa3-dd1113914115",
+    "e462186c-685e-46c5-81c6-84ecb87f12d9",
+    "856b3246-3522-498e-85c9-1a6ec2fc0bc5",
+    "3d01e249-0048-4c12-8b1e-25bd2f6a06d9",
+    "ac8f8638-8b3a-48a1-9261-33866da8390b",
+    "d470e798-77a7-457d-aee8-a77b78657d29",
+    "65ca9466-f888-432f-933b-0f79329c1671",
+    "d953e3a4-ade9-461d-b78f-18c22731877e",
+    "d072d9d2-cda1-4488-ae8d-94d46321fced",
+    "aefb8dd5-9600-4a6c-88c5-dacabd35e5e1",
+    "0cdc0edd-7f18-432f-9e31-8079cbb9216c",
+    "7d36d1de-9c7c-43c1-8770-b48399d183dc",
+    "c7eee74c-4fca-4790-a974-578339c054e0",
+    "7287855d-556c-45e8-882f-a76d3c99e286",
+    "c38f8af0-f019-44f7-a39e-609139a97ab4",
+    "e93c3139-2759-41e3-961d-dcb6adcb44e7",
+    "299549f2-1628-424b-a9bf-865d1deddc0d",
+    "b93a1695-8ac8-445c-bdf6-159ee239a7ba"
+  ]
+}

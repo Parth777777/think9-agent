@@ -1,0 +1,35 @@
+{
+  "brand_id": "foodstories",
+  "category": "food",
+  "generated_at": "2026-08-10T22:04:13.442356+00:00",
+  "signals": [
+    {
+      "id": "6c7ba1e1-2de3-4d4e-b646-8a245f60e2b5",
+      "source": "reddit",
+      "mode": "fallback_seeded",
+      "brand_category": "food",
+      "headline": "[seeded] r/india+r/IndianFood fetch blocked (consent-wall/bot-check response, not a network outage) in this environment",
+      "url": "",
+      "fetched_at": "2026-08-10T22:04:12.096299+00:00"
+    },
+    {
+      "id": "bca7c530-2ae0-4634-8c3b-eac0aec98a82",
+      "source": "youtube",
+      "mode": "fallback_seeded",
+      "brand_category": "food",
+      "headline": "[seeded] YouTube search-RSS unavailable (search_query is not a supported public feed param) for 'FoodStories food India'",
+      "url": "",
+      "fetched_at": "2026-08-10T22:04:12.731553+00:00"
+    },
+    {
+      "id": "80ac0899-75d7-4de5-ac4b-34564aee78ee",
+      "source": "instagram",
+      "mode": "fallback_seeded",
+      "brand_category": "food",
+      "headline": "[seeded] #food best-effort Instagram fetch unavailable in this environment",
+      "url": "",
+      "fetched_at": "2026-08-10T22:04:13.442255+00:00"
+    }
+  ],
+  "instagram_mode": "fallback_seeded"
+}

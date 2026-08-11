@@ -1,0 +1,35 @@
+{
+  "brand_id": "the_good_bug",
+  "category": "wellness",
+  "generated_at": "2026-08-10T22:03:02.472325+00:00",
+  "signals": [
+    {
+      "id": "588e7fb8-f618-49ff-8f14-334a37c2e7b3",
+      "source": "reddit",
+      "mode": "fallback_seeded",
+      "brand_category": "wellness",
+      "headline": "[seeded] r/india+r/IndianSkincareAddicts fetch blocked (consent-wall/bot-check response, not a network outage) in this environment",
+      "url": "",
+      "fetched_at": "2026-08-10T22:03:00.501627+00:00"
+    },
+    {
+      "id": "3a679b7d-8de0-423c-9933-9291c67a151c",
+      "source": "youtube",
+      "mode": "fallback_seeded",
+      "brand_category": "wellness",
+      "headline": "[seeded] YouTube search-RSS unavailable (search_query is not a supported public feed param) for 'The Good Bug wellness India'",
+      "url": "",
+      "fetched_at": "2026-08-10T22:03:01.130433+00:00"
+    },
+    {
+      "id": "34d1d461-8b82-4380-b234-58d84d3715f9",
+      "source": "instagram",
+      "mode": "fallback_seeded",
+      "brand_category": "wellness",
+      "headline": "[seeded] #wellness best-effort Instagram fetch unavailable in this environment",
+      "url": "",
+      "fetched_at": "2026-08-10T22:03:02.472263+00:00"
+    }
+  ],
+  "instagram_mode": "fallback_seeded"
+}

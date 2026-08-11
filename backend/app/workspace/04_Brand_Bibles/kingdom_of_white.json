@@ -1,0 +1,21 @@
+{
+  "id": "kingdom_of_white",
+  "name": "Kingdom of White",
+  "category": "fashion",
+  "positioning": "Premium men's apparel focused exclusively on white clothing - shirts, trousers, and accessories - built around a sharply defined consumer identity.",
+  "tone": [
+    "minimal",
+    "premium",
+    "quietly confident"
+  ],
+  "banned_claims": [
+    "guaranteed fit",
+    "stain-proof for life",
+    "never yellows"
+  ],
+  "consumer_segments": [
+    "premium_menswear",
+    "occasion_wear"
+  ],
+  "known_pitfalls": []
+}

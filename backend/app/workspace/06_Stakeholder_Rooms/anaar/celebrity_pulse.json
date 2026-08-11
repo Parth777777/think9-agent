@@ -1,0 +1,15 @@
+{
+  "brand_id": "anaar",
+  "generated_at": "2026-08-10T21:53:40.827562+00:00",
+  "celebrity_flags": [
+    {
+      "id": "partner_5",
+      "display_name": "Masaba Gupta",
+      "brand_id": "anaar",
+      "baseline_sentiment": 0.75,
+      "risk_flag": null,
+      "buzz_count": 3,
+      "seed": true
+    }
+  ]
+}

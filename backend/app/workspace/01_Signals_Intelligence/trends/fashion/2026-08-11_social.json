@@ -1,0 +1,149 @@
+{
+  "brand_id": "kingdom_of_white",
+  "category": "fashion",
+  "generated_at": "2026-08-11T17:43:29.887746+00:00",
+  "signals": [
+    {
+      "id": "e462186c-685e-46c5-81c6-84ecb87f12d9",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "fashion",
+      "headline": "Ask India Thread",
+      "url": "https://www.reddit.com/r/india/comments/1ukeupo/ask_india_thread/",
+      "fetched_at": "2026-08-11T17:43:15.839529+00:00",
+      "author": "AutoModerator"
+    },
+    {
+      "id": "856b3246-3522-498e-85c9-1a6ec2fc0bc5",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "fashion",
+      "headline": "Mental & Emotional Health Support Thread",
+      "url": "https://www.reddit.com/r/india/comments/1ukeupe/mental_emotional_health_support_thread/",
+      "fetched_at": "2026-08-11T17:43:15.839554+00:00",
+      "author": "AutoModerator"
+    },
+    {
+      "id": "3d01e249-0048-4c12-8b1e-25bd2f6a06d9",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "fashion",
+      "headline": "Phuket-Delhi Air India pilot tests positive for marijuana in 2nd dope test: Sources",
+      "url": "https://www.reddit.com/r/india/comments/1vljmph/phuketdelhi_air_india_pilot_tests_positive_for/",
+      "fetched_at": "2026-08-11T17:43:15.839566+00:00",
+      "author": "JKKIDD231"
+    },
+    {
+      "id": "ac8f8638-8b3a-48a1-9261-33866da8390b",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "fashion",
+      "headline": "‘My father is in RSS’: India’s Gen Z confronts Modi-loving parents at home | Politics News",
+      "url": "https://www.reddit.com/r/india/comments/1vljw82/my_father_is_in_rss_indias_gen_z_confronts/",
+      "fetched_at": "2026-08-11T17:43:15.839577+00:00",
+      "author": "TheIndianRevolution2"
+    },
+    {
+      "id": "d470e798-77a7-457d-aee8-a77b78657d29",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "fashion",
+      "headline": "History will indeed remember Manmohan Singh kindly as most consequential PM: Sonia Gandhi",
+      "url": "https://www.reddit.com/r/india/comments/1vlbbkw/history_will_indeed_remember_manmohan_singh/",
+      "fetched_at": "2026-08-11T17:43:15.839588+00:00",
+      "author": "TheIndianRevolution2"
+    },
+    {
+      "id": "65ca9466-f888-432f-933b-0f79329c1671",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "fashion",
+      "headline": "\"Joke's Nice, Game On\" Prakash Raj Claims Name Deleted From Voter List Amid SIR",
+      "url": "https://www.reddit.com/r/india/comments/1vlbowy/jokes_nice_game_on_prakash_raj_claims_name/",
+      "fetched_at": "2026-08-11T17:43:15.839597+00:00",
+      "author": "morose_coder"
+    },
+    {
+      "id": "d953e3a4-ade9-461d-b78f-18c22731877e",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "fashion",
+      "headline": "56-Inch Ka Chhota Bandar, the Chant That Punctured Modi’s Image - The Wire",
+      "url": "https://www.reddit.com/r/india/comments/1vlb80v/56inch_ka_chhota_bandar_the_chant_that_punctured/",
+      "fetched_at": "2026-08-11T17:43:15.839606+00:00",
+      "author": "Yournewbestfriend_01"
+    },
+    {
+      "id": "d072d9d2-cda1-4488-ae8d-94d46321fced",
+      "source": "reddit",
+      "mode": "degraded",
+      "brand_category": "fashion",
+      "headline": "Maharashtra clears 83,700 sq ft forest land for 2 Adani Group projects",
+      "url": "https://www.reddit.com/r/india/comments/1vl8pr6/maharashtra_clears_83700_sq_ft_forest_land_for_2/",
+      "fetched_at": "2026-08-11T17:43:15.839615+00:00",
+      "author": "iquizuanswer"
+    },
+    {
+      "id": "aefb8dd5-9600-4a6c-88c5-dacabd35e5e1",
+      "source": "youtube",
+      "mode": "live",
+      "brand_category": "fashion",
+      "headline": "Titli Lofi Mix: Shah Rukh Khan, Deepika Padukone | Chennai Express | Vishal-Sheykhar | DJ Alone",
+      "url": "https://www.youtube.com/watch?v=ePdGoFVd26k",
+      "fetched_at": "2026-08-11T17:43:25.454693+00:00"
+    },
+    {
+      "id": "0cdc0edd-7f18-432f-9e31-8079cbb9216c",
+      "source": "youtube",
+      "mode": "live",
+      "brand_category": "fashion",
+      "headline": "Boohe Baarian (Behind The Scenes) - Aditya Rikhari | Rochak Kohli | Roshni Walia | Bhushan Kumar",
+      "url": "https://www.youtube.com/watch?v=5CLsW_MBBxk",
+      "fetched_at": "2026-08-11T17:43:25.454719+00:00"
+    },
+    {
+      "id": "7d36d1de-9c7c-43c1-8770-b48399d183dc",
+      "source": "youtube",
+      "mode": "live",
+      "brand_category": "fashion",
+      "headline": "Shiv Tandav Stotram (Har Har Shiv Shankar) 8K |Sachet Tandon,Parampara Tandon | Bhushan Kumar",
+      "url": "https://www.youtube.com/watch?v=hTbcGMAbjzo",
+      "fetched_at": "2026-08-11T17:43:25.454733+00:00"
+    },
+    {
+      "id": "c7eee74c-4fca-4790-a974-578339c054e0",
+      "source": "youtube",
+      "mode": "live",
+      "brand_category": "fashion",
+      "headline": "ABOUT TIME (Official Video): THUGS FROM OVERSEAS | T-SERIES",
+      "url": "https://www.youtube.com/watch?v=_ChuLJREtQ0",
+      "fetched_at": "2026-08-11T17:43:25.454745+00:00"
+    },
+    {
+      "id": "7287855d-556c-45e8-882f-a76d3c99e286",
+      "source": "youtube",
+      "mode": "live",
+      "brand_category": "fashion",
+      "headline": "Jiye Tere Hi Sahaare (Full Video) | Hon’ble CM Thalapathy Vijay | Jan Neta | H Vinoth | Anirudh",
+      "url": "https://www.youtube.com/watch?v=0d10dHLLJw4",
+      "fetched_at": "2026-08-11T17:43:25.454758+00:00"
+    },
+    {
+      "id": "c38f8af0-f019-44f7-a39e-609139a97ab4",
+      "source": "instagram",
+      "mode": "fallback_seeded",
+      "brand_category": "fashion",
+      "headline": "[seeded] #fashion best-effort Instagram fetch unavailable in this environment",
+      "url": "",
+      "fetched_at": "2026-08-11T17:43:29.876285+00:00"
+    }
+  ],
+  "instagram_mode": "fallback_seeded",
+  "social_buzz": {
+    "mode": "degraded",
+    "source_tier": "rss",
+    "subreddits": [],
+    "daily": [],
+    "top_posts": []
+  }
+}
